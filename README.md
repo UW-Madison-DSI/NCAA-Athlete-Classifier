@@ -92,7 +92,7 @@ define('DATABASE_NAME', 'athletics');
 ```
 
 ## Running
-Scripts are provided for fetching and processing both athletes and teams: 
+[Scripts](src/README.md) are provided for fetching and processing both athletes and teams: 
 
 ### 1. Initialize the database
 
