@@ -20,19 +20,16 @@ This utility uses the following image classifiers:
 This classifier uses the [Color Thief](https://lokeshdhakar.com/projects/color-thief) utility to find the dominant color form an image and map it to a Monk skin tone scale.
 
 ![Screen Shot](images/color-thief.png)
-Color Thief
 
 ### 2. Skin Tone Classifier
 The [Skin Tone Classifier](https://github.com/ChenglongMa/SkinToneClassifier) utility is used to analyze the contents of an image, find the face regions, and perform a skin tone analysis, mapping the final color to the Monk skin tone scale. 
 
 ![Screen Shot](images/skin-tone-classifier.png)
-Skin Tone Classifier
 
 ### 3. Deep Face
 The [DeepFace](https://github.com/serengil/deepface) utility performs an ethnographic / demographic classification of players based upon the features of images.
 
 ![Screen Shot](images/deep-face-classifier.png)
-Deep Face Classifier
 
 ## Requirements
 
