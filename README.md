@@ -54,9 +54,9 @@ The [DeepFace](https://pypi.org/project/deepface/) utility is used to perform an
 
 Create a database called "athletics".  Then, run the following scripts to create the required database tables:
 
-1. [database/players_data.sql](database/players_data.sql) This creates the database table to hold data from the [players_data_final](data/Coding/players_data_final.csv) spreadsheet.
+1. [database/players_data.sql](database/players_data.sql) This creates the database table to hold data from the [players_data_final.csv](data/Coding/players_data_final.csv) spreadsheet.
 
-2. [database/4_universities.sql](database/4_universities.sql) This creates the database table to hold data from the [4 Universities Coding](database/4_data/Coding/4%20Universities%20Coding.csv) spreadsheet.
+2. [database/4_universities.sql](database/4_universities.sql) This creates the database table to hold data from the [4 Universities Coding.csv](data/Coding/4%20Universities%20Coding.csv) spreadsheet.
 
 ### 2. ColorThief
 Please install the ColorThief utility by running:
@@ -128,7 +128,7 @@ sh skin-tone-selected-ncaa-teams.sh
 
 When this is complete, it will have created a set of folders inside of the 'data/NCAA' team folders called "Reports", "RGB", and "Skin Tones".
 
-### 4. Run the DeepFace Classifier Analyzer
+### 4. Run the DeepFace Classifier Analyzer (Optional)
 
 Next, we'll run the DeepFace Analyzer on the source images.  To do this, run:
 
