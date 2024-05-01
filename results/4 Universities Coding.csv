@@ -1,0 +1,507 @@
+"id","Athlete Name","JERSEY","Position","HEIGHT","WEIGHT","YR","AGE","HIGH SCHOOL","RATING","University Name","Skin Tone","image_name","dominant_color","dominant_tone","skin_color","skin_tone","race_asian","race_indian","race_black","race_white","race_middle_eastern","race_latino_hispanic","dominant_race","face_confidence"
+828,"Jackson Acker",34,"RB","1-Jun",235,"SO",0,"Verona Area",0,"University of Wisconsin-Madison",6,"34.Acker.RB.UW.jpg","168,113,89",6,"#9D6A48",7,0.835,77.812,6.716,1.714,2.19,10.733,"indian",0.91
+829,"Braelon Allen",0,"RB","2-Jun",245,"JR",0,"Fond Du Lac",0,"University of Wisconsin-Madison",5,"0.Allen.RB.UW.jpg","168,110,85",7,"#9D6A48",7,9.353,18.446,22.073,11.26,10.396,28.472,"latino hispanic",0.93
+830,"Christian Alliegro",28,"LB","4-Jun",228,"FR",0,"Avon Old Farms",0,"University of Wisconsin-Madison",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+831,"Haakon Anderson",27,"WR","1-Jun",210,"JR",0,"Verona Area",0,"University of Wisconsin-Madison",3,"27.Anderson.WR.UW.jpg","214,157,134",2,"#CBAD8E",2,0,0,0,99.932,0.041,0.027,"white",0.89
+832,"Vinny Anthony II",86,"WR","Jun-00",183,"SO",0,"Louisville Male",0,"University of Wisconsin-Madison",7,"86.Anthony II.WR.UW.jpg","143,93,67",7,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+833,"Owen Arnett",18,"S","11-May",208,"SO",0,"Arrowhead",0,"University of Wisconsin-Madison",2,"18.Arnett.S.UW.jpg","205,153,136",2,"#9D6A48",7,0.065,0.084,0.01,79.801,6.389,13.65,"white",0.9
+834,"Jace Arnold",22,"CB","9-May",186,"FR",0,"Marietta",0,"University of Wisconsin-Madison",8,"22.Arnold.CB.UW.jpg","124,78,56",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+835,"Tucker Ashcraft",38,"TE","5-Jun",245,"FR",0,"O'Dea",0,"University of Wisconsin-Madison",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+836,"Dylan Barrett",61,"OL","5-Jun",322,"JR",0,"St Charles East",0,"University of Wisconsin-Madison",2,"61.Barrett.OL.UW.jpg","213,163,143",2,"#CBAD8E",2,0.018,0.076,0.003,82.338,11.694,5.872,"white",0.89
+837,"Ben Barten",68,"DE","5-Jun",303,"JR",0,"Stratford",0,"University of Wisconsin-Madison",3,"68.Barten.DE.UW.jpg","219,165,147",1,"#9D6A48",7,0,0,0,100,0,0,"white",0.91
+838,"Skyler Bell",11,"WR","Jun-00",195,"SO",0,"The Taft School",0,"University of Wisconsin-Madison",8,"11.Bell.WR.UW.jpg","151,98,71",7,"#824F3A",8,0,0,100,0,0,0,"black",0.97
+839,"JP Benzschawel",67,"OL","6-Jun",312,"SO",21,"Grafton",0,"University of Wisconsin-Madison",1,"67.Benzschawel.OL.UW.jpg","218,158,141",2,"#9D6A48",7,0,0,0,99.991,0.007,0.003,"white",0.91
+840,"Atticus Bertrams",49,"P","3-Jun",225,"FR",0,"ProKick Australia",0,"University of Wisconsin-Madison",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+841,"Keane Bessert",60,"LS","2-Jun",230,"FR",0,"-",0,"University of Wisconsin-Madison",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+842,"Travian Blaylock",26,"S","11-May",208,"SR",24,"Atascocita",0,"University of Wisconsin-Madison",7,"26.Blaylock.S.UW.jpg","138,92,72",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+843,"T.J. Bollers",3,"LB","2-Jun",270,"SO",20,"Clear Creek Amana",0,"University of Wisconsin-Madison",5,"3.Bollers.LB.UW.jpg","182,127,104",5,"#9D6A48",7,34.232,9.098,19.228,3.507,2.299,31.635,"asian",0.9
+844,"Tanor Bortolini",63,"OL","4-Jun",310,"JR",0,"Kewaunee",0,"University of Wisconsin-Madison",3,"63.Bortolini.OL.UW.jpg","211,163,141",2,"#9D6A48",7,0.408,14.956,0.691,14.347,54,15.599,"middle eastern",0.93
+845,"Grover Bortolotti",43,"RB","9-May",193,"SO",0,"Whitefish Bay",0,"University of Wisconsin-Madison",2,"43.Bortolotti.RB.UW.jpg","200,147,126",4,"#9D6A48",7,1.298,8.602,1.117,23.138,46.636,19.209,"middle eastern",0.92
+846,"Peter Bowden",47,"LS","2-Jun",242,"SR",0,"Francis Parker School",0,"University of Wisconsin-Madison",1,"47.Bowden.LS.UW.jpg","219,165,146",1,"#CEB194",1,0.91,1.973,0.286,38.305,11.451,47.075,"latino hispanic",0.89
+847,"Chris Brooks Jr.",84,"WR","2-Jun",225,"FR",0,"-",0,"University of Wisconsin-Madison",6,"84.Brooks Jr..WR.UW.jpg","172,118,93",6,"#824F3A",8,0.069,0.059,99.833,0,0,0.039,"black",0.91
+848,"Austin Brown",9,"S","1-Jun",210,"SO",0,"Johnston City",0,"University of Wisconsin-Madison",5,"9.Brown.S.UW.jpg","180,122,97",6,"#9D6A48",7,32.01,11.077,14.97,9.187,6.717,26.039,"asian",0.91
+849,"Joe Brunner",56,"OL","5-Jun",318,"FR",0,"Whitefish Bay",0,"University of Wisconsin-Madison",3,"56.Brunner.OL.UW.jpg","210,158,140",2,"#9D6A48",7,0.35,2.943,0.103,51.67,23.589,21.345,"white",0.95
+850,"Tommy Brunner",76,"DE","3-Jun",250,"SR",0,"-",0,"University of Wisconsin-Madison",2,"76.Brunner.DE.UW.jpg","216,167,148",1,"#9D6A48",7,0.01,0.167,0.004,76.496,15.272,8.052,"white",0.93
+851,"Myles Burkett",16,"QB","Jun-00",202,"FR",0,"Franklin",0,"University of Wisconsin-Madison",4,"16.Burkett.QB.UW.jpg","197,140,114",5,"#9D6A48",7,2.838,6.369,1.253,32.855,27.875,28.81,"white",0.87
+852,"Quincy Burroughs",5,"WR","3-Jun",208,"FR",0,"Raines",0,"University of Wisconsin-Madison",10,"5.Burroughs.WR.UW.jpg","104,67,52",9,"#544336",9,1.165,0.427,0.205,83.545,5.988,8.669,"white",0
+853,"Bryce Carey",37,"S","1-Jun",195,"JR",0,"-",0,"University of Wisconsin-Madison",2,"37.Carey.S.UW.jpg","217,162,140",2,"#CBAD8E",2,0,0,0,99.984,0.011,0.005,"white",0.89
+854,"Michael Cerniglia Jr.",82,"TE","3-Jun",240,"JR",0,"-",0,"University of Wisconsin-Madison",3,"82.Cerniglia Jr..TE.UW.jpg","231,167,135",3,"#CBAD8E",2,0.023,5.997,0.069,5.94,80.995,6.976,"middle eastern",0.9
+855,"Jake Chaney",36,"LB","11-May",235,"JR",0,"Lehigh Senior",0,"University of Wisconsin-Madison",8,"36.Chaney.LB.UW.jpg","112,70,50",8,"#824F3A",8,0.414,0.636,0.472,81.344,7.571,9.562,"white",0
+856,"John Clifford",76,"OL","5-Jun",304,"FR",0,"-",0,"University of Wisconsin-Madison",2,"76.Clifford.OL.UW.jpg","213,154,130",2,"#9D6A48",7,1.272,5.456,0.575,40.315,28.104,24.278,"white",0.89
+857,"Cole Dakovich",48,"TE","5-Jun",255,"JR",0,"Catholic Memorial",0,"University of Wisconsin-Madison",2,"48.Dakovich.TE.UW.jpg","220,162,143",2,"#CBAD8E",2,0.015,0.62,0.003,35.401,55.741,8.22,"middle eastern",0.93
+858,"Chimere Dike",13,"WR","1-Jun",200,"SR",0,"North",0,"University of Wisconsin-Madison",5,"13.Dike.WR.UW.jpg","180,129,105",5,"#9D6A48",7,0,0.002,99.997,0,0,0,"black",0.9
+859,"Jonas Duclona",21,"CB","10-May",188,"FR",0,"Naples",0,"University of Wisconsin-Madison",7,"21.Duclona.CB.UW.jpg","147,94,69",7,"#9D6A48",7,0.001,0,99.999,0,0,0,"black",0.93
+860,"James Durand",65,"OL","5-Jun",303,"FR",0,"Basha",0,"University of Wisconsin-Madison",2,"78.James.OL.Ohio State.jpg","214,161,150",1,"#CBAD8E",2,0,0,0,99.239,0.577,0.183,"white",0.93
+861,"Nick Evers",7,"QB","3-Jun",196,"FR",20,"Flower Mound",0,"University of Wisconsin-Madison",4,"7.Evers.QB.UW.jpg","183,133,109",5,"#9D6A48",7,16.494,16.224,9.984,13.159,11.259,32.88,"latino hispanic",0.91
+862,"Cam Fane",21,"WR","1-Jun",184,"FR",0,"-",0,"University of Wisconsin-Madison",7,"21.Fane.WR.UW.jpg","123,79,59",8,"#824F3A",8,0,0,100,0,0,0,"black",0.98
+863,"Nyzier Fourqurean",10,"CB","1-Jun",190,"JR",0,"Mentor",0,"University of Wisconsin-Madison",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+864,"Michael Furtney",74,"OL","5-Jun",316,"SR",0,"Milan",0,"University of Wisconsin-Madison",2,"74.Furtney.OL.UW.jpg","224,175,154",1,"#CEB194",1,0.002,0.001,0,98.253,0.874,0.871,"white",0.94
+865,"Ross Gengler",53,"LB","2-Jun",230,"JR",0,"Delavan-darien",0,"University of Wisconsin-Madison",3,"53.Gengler.LB.UW.jpg","198,140,120",4,"#9D6A48",7,0.828,2.444,0.203,51.32,25.103,20.102,"white",0.94
+866,"Zach Gloudeman",44,"RB","2-Jun",226,"FR",0,"-",0,"University of Wisconsin-Madison",2,"44.Gloudeman.RB.UW.jpg","215,162,140",2,"#CBAD8E",2,0,0,0,99.998,0.001,0.002,"white",0.92
+867,"C.J. Goetz",98,"LB","3-Jun",240,"SR",0,"Catholic Memorial",0,"University of Wisconsin-Madison",2,"98.Goetz.LB.UW.jpg","209,157,136",2,"#CBAD8E",2,0,0,0,99.998,0.002,0.001,"white",0.93
+868,"Tatum Grass",39,"LB","2-Jun",234,"SR",0,"Holmen",0,"University of Wisconsin-Madison",3,"39.Grass.LB.UW.jpg","195,145,122",4,"#9D6A48",7,0.001,0.045,0.001,79.87,13.383,6.7,"white",0.89
+869,"Bryson Green",9,"WR","Jun-00",215,"JR",0,"Allen",0,"University of Wisconsin-Madison",5,"9.Green.WR.UW.jpg","172,116,91",6,"#9D6A48",7,2.196,1.336,95.203,0.076,0.045,1.144,"black",0.9
+870,"Ricardo Hallman",2,"CB","10-May",185,"SO",0,"TRU Prep Academy",0,"University of Wisconsin-Madison",8,"2.Hallman.CB.UW.jpg","123,77,59",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+871,"Jamel Howard",91,"DL","2-Jun",318,"FR",0,"Marist",0,"University of Wisconsin-Madison",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+872,"Joe Huber",60,"OL","5-Jun",311,"JR",0,"Dublin Jerome",0,"University of Wisconsin-Madison",2,"60.Huber.OL.UW.jpg","219,167,148",1,"#9D6A48",7,0,0,0,99.941,0.018,0.04,"white",0.94
+873,"Tyler Jansey",27,"LB","Jun-00",230,"FR",0,"Batavia",0,"University of Wisconsin-Madison",2,"27.Jansey.LB.UW.jpg","205,149,130",4,"#CBAD8E",2,0,0,0,99.845,0.097,0.058,"white",0.88
+874,"Charlie Jarvis",34,"S","1-Jun",205,"FR",0,"-",0,"University of Wisconsin-Madison",2,"34.Jarvis.S.UW.jpg","198,146,133",4,"#9D6A48",7,0.358,1.135,0.052,50.387,26.164,21.904,"white",0.91
+875,"Mike Jarvis",97,"DE","4-Jun",288,"SO",0,"Shawnee",0,"University of Wisconsin-Madison",4,"97.Jarvis.DE.UW.jpg","210,155,128",4,"#9D6A48",7,0.5,2.958,0.337,37.2,35.142,23.862,"white",0.93
+876,"Kaden Johnson",52,"LB","2-Jun",248,"JR",0,"Minnehaha Academy",0,"University of Wisconsin-Madison",5,"52.Johnson.LB.UW.jpg","188,132,111",5,"#9D6A48",7,13.155,15.01,34.779,6.301,5.242,25.513,"black",0.92
+877,"Rodas Johnson",56,"DE","2-Jun",295,"SR",0,"St. Francis De Sales",0,"University of Wisconsin-Madison",5,"56.Johnson.DE.UW.jpg","186,128,99",5,"#9D6A48",7,1.359,83.223,2.433,0.401,0.3,12.284,"indian",0.91
+878,"Trech Kekahuna",12,"WR","10-May",180,"FR",0,"Bishop Gorman",0,"University of Wisconsin-Madison",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+879,"Gabe Kirschke",58,"DL","5-Jun",250,"FR",0,"-",0,"University of Wisconsin-Madison",3,"58.Kirschke.DL.UW.jpg","210,154,131",2,"#A9855A",6,0,0,0,99.868,0.113,0.019,"white",0.92
+880,"Kerry Kodanko",73,"OL","2-Jun",315,"JR",0,"West De Pere",0,"University of Wisconsin-Madison",3,"73.Kodanko.OL.UW.jpg","221,165,142",2,"#CBAD8E",2,0.002,0.003,0,95.323,2.071,2.601,"white",0.9
+881,"Cole LaCrue",17,"QB","1-Jun",197,"FR",0,"Broomfield",0,"University of Wisconsin-Madison",3,"17.LaCrue.QB.UW.jpg","204,155,132",2,"#CBAD8E",2,1.491,1.023,0.066,52.074,17.263,28.082,"white",0.92
+882,"Gavin Lahm",97,"K","Jun-00",216,"SO",0,"-",0,"University of Wisconsin-Madison",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+883,"Peyton Lange",77,"OL","9-Jun",340,"FR",0,"-",0,"University of Wisconsin-Madison",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+884,"Cam Large",49,"TE","3-Jun",237,"SR",0,"Noble And Greenough School",0,"University of Wisconsin-Madison",2,"49.Large.TE.UW.jpg","210,161,140",2,"#CBAD8E",2,0,0,0,99.157,0.401,0.443,"white",0.91
+885,"Kamo'i Latu",13,"S","Jun-00",207,"SR",0,"St. Louis",0,"University of Wisconsin-Madison",5,"13.Latu.S.UW.jpg","196,139,109",5,"#9D6A48",7,54.666,17.288,9.076,4.245,1.868,12.858,"asian",0.89
+886,"Braedyn Locke",18,"QB","Jun-00",200,"FR",0,"Rockwall",0,"University of Wisconsin-Madison",2,"18.Locke.QB.UW.jpg","207,154,136",2,"#CBAD8E",2,0,0,0,100,0,0,"white",0.89
+887,"Max Lofy",12,"CB","10-May",190,"JR",0,"Pine Creek",0,"University of Wisconsin-Madison",5,"12.Lofy.CB.UW.jpg","164,113,88",7,"#9D6A48",7,0.24,63.181,32.949,0.039,0.022,3.57,"indian",0.92
+888,"Michael Mack",7,"CB","1-Jun",180,"JR",0,"The Bullis School",0,"University of Wisconsin-Madison",5,"7.Mack.CB.UW.jpg","176,116,91",6,"#9D6A48",7,0,0,100,0,0,0,"black",0.94
+889,"Deven Magli",46,"S","1-Jun",198,"FR",0,"-",0,"University of Wisconsin-Madison",3,"46.Magli.S.UW.jpg","214,160,138",2,"#CBAD8E",2,3.62,5.747,0.734,32.384,19.51,38.006,"latino hispanic",0.89
+890,"Riley Mahlman",71,"OL","8-Jun",320,"SO",20,"Lakeville South",0,"University of Wisconsin-Madison",3,"71.Mahlman.OL.UW.jpg","208,154,133",2,"#CBAD8E",2,0,0.002,0,94.291,3.287,2.42,"white",0.9
+891,"Jason Maitre",23,"CB","10-May",188,"SR",0,"Everett",0,"University of Wisconsin-Madison",6,"23.Maitre.CB.UW.jpg","150,99,74",7,"#824F3A",8,0,0,100,0,0,0,"black",0.91
+892,"Jordan Mayer",95,"LB","4-Jun",235,"FR",0,"Thomas Jefferson",0,"University of Wisconsin-Madison",3,"95.Mayer.LB.UW.jpg","204,158,139",2,"#9D6A48",7,0.015,0.177,0.001,75.856,20.091,3.86,"white",0.9
+893,"Cade McDonald",96,"DE","6-Jun",285,"JR",0,"Hudson",0,"University of Wisconsin-Madison",2,"96.McDonald.DE.UW.jpg","225,170,150",1,"#CBAD8E",2,0,0,0,100,0,0,"white",0.91
+894,"Will McDonald",77,"DL","4-Jun",254,"FR",0,"-",0,"University of Wisconsin-Madison",0,"56.McDonald.DL.Ohio State.jpg","135,81,59",8,"#824F3A",8,0,0,100,0,0,0,"black",0.96
+895,"Tommy McIntosh",15,"WR","5-Jun",205,"FR",0,"Dewitt",0,"University of Wisconsin-Madison",2,"15.McIntosh.WR.UW.jpg","214,160,141",2,"#9D6A48",7,0,0.001,0,99.259,0.65,0.091,"white",0.99
+896,"Duncan McKinley",64,"LS","2-Jun",230,"JR",0,"-",0,"University of Wisconsin-Madison",2,"64.McKinley.LS.UW.jpg","217,164,146",2,"#CEB194",1,0.001,0.001,0,95.62,1.839,2.54,"white",0.9
+897,"Chez Mellusi",1,"RB","11-May",212,"SR",22,"Naples",0,"University of Wisconsin-Madison",6,"1.Mellusi.RB.UW.jpg","172,115,89",6,"#9D6A48",7,3.199,13.395,76.697,0.499,0.43,5.78,"black",0.93
+898,"Gavin Meyers",28,"P","1-Jun",203,"JR",0,"Lourdes",0,"University of Wisconsin-Madison",1,"28.Meyers.P.UW.jpg","219,170,152",1,"#9D6A48",7,0,0,0,100,0,0,"white",0.93
+899,"Zack Mlsna",75,"OL","7-Jun",328,"FR",0,"-",0,"University of Wisconsin-Madison",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+900,"Alex Moeller",30,"WR","11-May",180,"SO",0,"Prospect",0,"University of Wisconsin-Madison",3,"30.Moeller.WR.UW.jpg","202,152,136",2,"#9D6A48",7,0,0,0,98.908,0.679,0.413,"white",0.9
+901,"Braedyn Moore",20,"S","2-Jun",200,"FR",0,"Stephen T Badin",0,"University of Wisconsin-Madison",4,"39.Moore.S.Ohio State.jpg","144,92,71",7,"#824F3A",8,0,0,100,0,0,0,"black",0.9
+902,"Tanner Mordecai",8,"QB","2-Jun",218,"SR",0,"Midway",0,"University of Wisconsin-Madison",3,"8.Mordecai.QB.UW.jpg","204,150,127",4,"#9D6A48",7,0.664,0.788,0.097,62.135,13.641,22.676,"white",0.93
+903,"Isaiah Mullens",99,"DE","4-Jun",298,"SR",0,"Harvest Preparatory School",0,"University of Wisconsin-Madison",5,"84.Mullens.DE.UW.jpg","178,119,91",6,"#9D6A48",7,0,0.001,99.999,0,0,0,"black",0.95
+904,"Manny Mullens",84,"DE","2-Jun",276,"SO",0,"-",0,"University of Wisconsin-Madison",7,"84.Mullens.DE.UW.jpg","178,119,91",6,"#9D6A48",7,0,0.001,99.999,0,0,0,"black",0.95
+905,"Curt Neal",92,"NT","Jun-00",300,"FR",0,"-",0,"University of Wisconsin-Madison",4,"92.Neal.NT.UW.jpg","190,134,108",5,"#9D6A48",7,6.886,18.436,45.592,2.732,2.062,24.292,"black",0.9
+906,"Barrett Nelson",70,"OL","6-Jun",292,"FR",0,"Stoughton",0,"University of Wisconsin-Madison",2,"70.Nelson.OL.UW.jpg","218,161,142",2,"#CBAD8E",2,0.179,0.109,0.009,75.104,7.688,16.91,"white",0.89
+907,"Jack Nelson",79,"OL","7-Jun",311,"JR",0,"Stoughton",0,"University of Wisconsin-Madison",2,"70.Nelson.OL.UW.jpg","218,161,142",2,"#CBAD8E",2,0.179,0.109,0.009,75.104,7.688,16.91,"white",0.89
+908,"Maema Njongmeta",55,"LB","Jun-00",240,"SR",0,"Adlai Stevenson",0,"University of Wisconsin-Madison",8,"55.Njongmeta.LB.UW.jpg","118,78,59",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+909,"Riley Nowakowski",37,"TE","1-Jun",243,"JR",0,"Marquette University",0,"University of Wisconsin-Madison",5,"37.Nowakowski.TE.UW.jpg","170,115,89",6,"#9D6A48",7,0.045,0.961,98.731,0.002,0.001,0.261,"black",0.87
+910,"Grady O'Neill",26,"WR","11-May",160,"FR",0,"-",0,"University of Wisconsin-Madison",2,"26.O'Neill.WR.UW.jpg","207,157,141",2,"#9D6A48",7,0.037,0.157,0.008,69.542,21.183,9.074,"white",0.91
+911,"Gio Paez",94,"DE","3-Jun",310,"SR",0,"William Amos Hough",0,"University of Wisconsin-Madison",2,"94.Paez.DE.UW.jpg","199,150,128",4,"#9D6A48",7,1.393,8.756,21.271,10.952,38.867,18.761,"middle eastern",0.92
+912,"Will Pauling",6,"WR","10-May",187,"SO",0,"Homewood-Flossmoor",0,"University of Wisconsin-Madison",7,"6.Pauling.WR.UW.jpg","137,88,64",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+913,"Darryl Peterson",17,"LB","1-Jun",245,"SO",0,"Archbishop Hoban",0,"University of Wisconsin-Madison",7,"17.Peterson.LB.UW.jpg","163,110,85",7,"#824F3A",8,0.002,0.005,99.991,0,0,0.002,"black",0.93
+914,"Jeff Pietrowski Jr.",44,"LB","2-Jun",243,"JR",0,"St. Edward",0,"University of Wisconsin-Madison",2,"44.Pietrowski Jr..LB.UW.jpg","211,154,134",2,"#9D6A48",7,0.001,0.004,0,92.956,5.575,1.465,"white",0.89
+915,"Jack Pugh",89,"TE","5-Jun",257,"SO",22,"Hilliard Bradley",0,"University of Wisconsin-Madison",3,"89.Pugh.TE.UW.jpg","208,155,133",2,"#CBAD8E",2,0,0,0,98.432,0.634,0.934,"white",0.96
+916,"Max Rader",62,"OL","6-Jun",283,"FR",0,"-",0,"University of Wisconsin-Madison",2,"62.Rader.OL.UW.jpg","218,167,147",1,"#CEB194",1,0.001,0.004,0,92.035,1.672,6.288,"white",0.92
+917,"Jake Renfro",57,"OL","4-Jun",310,"JR",0,"Providence Catholic",0,"University of Wisconsin-Madison",2,"57.Renfro.OL.UW.jpg","214,162,143",2,"#CBAD8E",2,0,0,0,99.982,0.006,0.012,"white",0.9
+918,"Hayden Rucci",87,"TE","4-Jun",253,"SR",0,"Warwick",0,"University of Wisconsin-Madison",2,"87.Rucci.TE.UW.jpg","203,148,128",4,"#9D6A48",7,0,0,0,99.667,0.128,0.205,"white",0.93
+919,"Nolan Rucci",66,"OL","8-Jun",300,"SO",21,"Warwick",0,"University of Wisconsin-Madison",3,"66.Rucci.OL.UW.jpg","211,156,131",2,"#9D6A48",7,0.077,0.074,0.008,85.027,4.185,10.629,"white",0.89
+920,"Bryan Sanborn",51,"LB","1-Jun",230,"SO",20,"Lake Zurich",0,"University of Wisconsin-Madison",2,"51.Sanborn.LB.UW.jpg","213,158,140",2,"#CBAD8E",2,0,0,0,99.267,0.273,0.46,"white",0.91
+921,"JT Seagreaves",41,"TE","6-Jun",245,"FR",0,"Monroe",0,"University of Wisconsin-Madison",2,"41.Seagreaves.TE.UW.jpg","210,159,137",2,"#CBAD8E",2,0,0,0,99.7,0.083,0.218,"white",0.93
+922,"Alexander Smith",11,"CB","11-May",187,"SR",0,"Culver City",0,"University of Wisconsin-Madison",0,"11.Smith.CB.UW.jpg","185,121,98",6,"#9D6A48",7,0.333,0.048,0.007,94.049,1.756,3.807,"white",0
+923,"Amare Snowden",16,"CB","4-Jun",199,"FR",0,"Roseville",0,"University of Wisconsin-Madison",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+924,"Garrison Solliday",45,"LB","11-May",233,"SO",0,"St Thomas Academy",0,"University of Wisconsin-Madison",5,"45.Solliday.LB.UW.jpg","185,134,111",5,"#9D6A48",7,3.131,9.068,7.003,20.432,17.199,43.167,"latino hispanic",0.92
+925,"Marty Strey",32,"LB","2-Jun",235,"SR",0,"-",0,"University of Wisconsin-Madison",2,"32.Strey.LB.UW.jpg","209,159,141",2,"#CBAD8E",2,0,0,0,99.849,0.136,0.015,"white",0.9
+926,"Justin Taylor",25,"S","Jun-00",195,"FR",0,"Nazareth Academy",0,"University of Wisconsin-Madison",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+927,"Davion Thomas-Kumpula",23,"WR","11-May",174,"FR",0,"-",0,"University of Wisconsin-Madison",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+928,"James Thompson Jr.",90,"DE","5-Jun",288,"JR",0,"Roger Bacon",0,"University of Wisconsin-Madison",7,"90.Thompson Jr..DE.UW.jpg","177,118,88",6,"#824F3A",8,0,0.05,99.946,0,0,0.004,"black",0.94
+929,"Sean Timmis",64,"OL","4-Jun",307,"SO",0,"Marquette University",0,"University of Wisconsin-Madison",2,"64.Timmis.OL.UW.jpg","213,159,138",2,"#CBAD8E",2,0,0,0,99.793,0.109,0.098,"white",0.92
+930,"A.J. Tisdell",29,"CB","11-May",189,"FR",0,"College Station",0,"University of Wisconsin-Madison",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+931,"Angel Toombs",81,"TE","5-Jun",245,"FR",0,"-",0,"University of Wisconsin-Madison",5,"81.Toombs.TE.UW.jpg","185,129,100",5,"#9D6A48",7,0.077,0.077,99.834,0,0,0.013,"black",0.93
+932,"Isaac Townsend",93,"DE","5-Jun",277,"SR",0,"Ralston Valley",0,"University of Wisconsin-Madison",2,"93.Townsend.DE.UW.jpg","217,162,142",2,"#9D6A48",7,0.002,0.006,0,94.717,1.347,3.928,"white",0.93
+933,"Jackson Trudgeon",43,"S","1-Jun",202,"FR",0,"Edgewood",0,"University of Wisconsin-Madison",2,"43.Trudgeon.S.UW.jpg","202,151,130",4,"#CBAD8E",2,1.658,0.073,0.013,91.82,2.626,3.809,"white",0.91
+934,"Jordan Turner",54,"LB","1-Jun",238,"JR",0,"Farmington",0,"University of Wisconsin-Madison",8,"54.Turner.LB.UW.jpg","116,79,59",8,"#824F3A",8,1.624,2.123,23.817,50.414,6.015,16.006,"white",0
+935,"Nathanial Vakos",90,"K","1-Jun",200,"SO",0,"Avon",0,"University of Wisconsin-Madison",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+936,"Jack Van Dyke",22,"P","5-Jun",228,"SR",0,"Neenah",0,"University of Wisconsin-Madison",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+937,"Evan Van Dyn Hoven",47,"LB","3-Jun",228,"FR",0,"-",0,"University of Wisconsin-Madison",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+938,"Nate Van Zelst",29,"K","11-May",200,"SO",0,"Loyola Academy",0,"University of Wisconsin-Madison",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+939,"Darian Varner",19,"DE","3-Jun",275,"JR",0,"Maury",0,"University of Wisconsin-Madison",7,"19.Varner.DE.UW.jpg","168,113,84",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.88
+940,"Aidan Vaughan",50,"LB","2-Jun",224,"FR",0,"Walled Lake Western",0,"University of Wisconsin-Madison",2,"50.Vaughan.LB.UW.jpg","212,161,140",2,"#CBAD8E",2,0,0,0,99.994,0.005,0.001,"white",0.89
+941,"Nolan Vils",85,"DL","2-Jun",271,"FR",0,"-",0,"University of Wisconsin-Madison",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+942,"Trey Wedig",78,"OL","7-Jun",318,"JR",0,"Kettle Moraine",0,"University of Wisconsin-Madison",2,"78.Wedig.OL.UW.jpg","218,170,150",1,"#CEB194",1,0.134,0.112,0.004,76.398,9.728,13.624,"white",0.92
+943,"Nate White",20,"RB","11-May",170,"FR",0,"King",0,"University of Wisconsin-Madison",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+944,"C.J. Williams",4,"WR","1-Jun",197,"SO",20,"Mater Dei",0,"University of Wisconsin-Madison",6,"21.Williams.WR.Maryland.jpg","116,75,63",8,"#824F3A",8,0,0,99.999,0,0,0,"black",0.93
+945,"Aaron Witt",59,"LB","6-Jun",258,"JR",0,"Winona",0,"University of Wisconsin-Madison",3,"59.Witt.LB.UW.jpg","209,160,145",2,"#CBAD8E",2,0,0,0,100,0,0,"white",0.9
+946,"Hunter Wohler",24,"S","2-Jun",211,"JR",20,"Muskego",0,"University of Wisconsin-Madison",2,"24.Wohler.S.UW.jpg","210,159,141",2,"#CBAD8E",2,0,0,0,99.977,0.015,0.008,"white",0.89
+947,"Cade Yacamelli",25,"RB","Jun-00",213,"FR",0,"Penn Trafford",0,"University of Wisconsin-Madison",2,"25.Yacamelli.RB.UW.jpg","205,151,132",2,"#CBAD8E",2,0,0.002,0,94.409,3.597,1.991,"white",0.9
+948,"Preston Zachman",14,"S","1-Jun",207,"SO",0,"Southern Columbia Area HS",0,"University of Wisconsin-Madison",2,"14.Zachman.S.UW.jpg","213,157,139",2,"#9D6A48",7,0,0,0,98.783,0.975,0.242,"white",0.9
+949,"Zach Zei",69,"LS","2-Jun",220,"SO",0,"-",0,"University of Wisconsin-Madison",2,"69.Zei.LS.UW.jpg","220,160,142",2,"#CBAD8E",2,0.001,0.001,0,96.971,0.967,2.06,"white",0.91
+950,"Ryne Acheson",38,"RB","1-Jun",186,"FR",0,"-",0,"University of Maryland",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+951,"Tommy Akingbesote",7,"DL","5-Jun",315,"JR",0,"Charles Herbert Flowers",0,"University of Maryland",8,"7.Akingbesote.DL.Maryland.jpg","119,77,65",8,"#824F3A",8,0,0.01,99.989,0,0,0,"black",0.93
+952,"Jonathan Akins",43,"DB","Jun-00",172,"FR",0,"Madison County",0,"University of Maryland",7,"43.Akins.DB.Maryland.jpg","198,119,92",6,"#824F3A",8,0.58,1.277,2.252,75.439,10.122,10.33,"white",0
+953,"Sebastian Antoine-Pompey",47,"DB","11-May",180,"FR",0,"-",0,"University of Maryland",8,"47.Antoine-Pompey.DB.Maryland.jpg","115,70,56",8,"#824F3A",8,0,0,100,0,0,0,"black",0.96
+954,"Caleb Atogho",27,"DB","Jun-00",191,"SO",0,"-",0,"University of Maryland",8,"27.Atogho.DB.Maryland.jpg","145,92,76",7,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+955,"Neeo Avery",0,"LB","6-Jun",258,"FR",0,"Our Lady Good Counsel HS",0,"University of Maryland",3,"0.Avery.LB.Maryland.jpg","222,163,143",2,"#CEB194",1,5.495,11.436,3.228,17.526,13.069,49.246,"latino hispanic",0.94
+956,"Ezekiel Avit",22,"WR","2-Jun",197,"FR",0,"Winston Churchill",0,"University of Maryland",8,"22.Avit.WR.Maryland.jpg","126,74,61",8,"#824F3A",8,0.471,0.396,1.237,82.959,6.889,8.047,"white",0
+957,"Gottlieb Ayedze",72,"OL","5-Jun",320,"SR",0,"Northwest",0,"University of Maryland",9,"72.Ayedze.OL.Maryland.jpg","100,60,53",9,"#824F3A",8,0.239,0.369,0.06,84.717,7.779,6.837,"white",0
+958,"Karon Ball",36,"DB","Jun-00",196,"JR",0,"-",0,"University of Maryland",7,"36.Ball.DB.Maryland.jpg","123,73,59",8,"#824F3A",8,0,0,100,0,0,0,"black",0.96
+959,"Jaishawn Barham",1,"LB","4-Jun",233,"SO",0,"St. Frances Academy",0,"University of Maryland",6,"1.Barham.LB.Maryland.jpg","122,81,61",8,"#824F3A",8,0.533,0.214,0.024,89.165,5.3,4.764,"white",0
+960,"Tyler Baruch",80,"WR",NULL,0,"FR",0,"-",0,"University of Maryland",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+961,"Taylor Best",29,"WR","Jun-00",178,"FR",0,"-",0,"University of Maryland",2,"39.Taylor.WR.Michigan.jpg","201,159,144",2,"#CBAD8E",2,0.002,0.001,0,98.749,0.717,0.531,"white",0.9
+962,"Beau Brade",2,"DB","1-Jun",210,"SR",0,"River Hill",0,"University of Maryland",6,"2.Brade.DB.Maryland.jpg","188,114,87",6,"#824F3A",8,0,0.001,99.999,0,0,0,"black",0.95
+963,"J'Mar Branion",30,"DB","9-May",162,"FR",0,"-",0,"University of Maryland",3,"30.Branion.DB.Maryland.jpg","227,168,142",1,"#CEB194",1,90.995,1.105,2.817,0.096,0.027,4.96,"asian",0.92
+964,"Donnell Brown",19,"DL","3-Jun",254,"JR",0,"Riverdale Baptist",0,"University of Maryland",6,"19.Brown.DL.Maryland.jpg","179,123,108",6,"#9D6A48",7,0.129,0.857,98.408,0.036,0.01,0.559,"black",0.95
+965,"Maxwell Brown",47,"TE","3-Jun",207,"SO",0,"-",0,"University of Maryland",7,"47.Brown.TE.Maryland.jpg","170,106,89",7,"#824F3A",8,0,0.001,99.999,0,0,0,"black",0.97
+966,"Ramon Brown",8,"RB","11-May",210,"SO",0,"Manchester",0,"University of Maryland",7,"8.Brown.RB.Maryland.jpg","140,91,70",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+967,"Corey Bullock",51,"OL","4-Jun",331,"SR",0,"Gwynn Park",0,"University of Maryland",8,"51.Bullock.OL.Maryland.jpg","111,61,50",8,"#824F3A",8,6.771,0.606,3.782,71.967,4.988,11.886,"white",0
+968,"Isaac Bunyun",57,"DL","4-Jun",310,"JR",0,"-",0,"University of Maryland",8,"57.Bunyun.DL.Maryland.jpg","124,81,64",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+969,"Tyrese Chambers",0,"WR","Jun-00",192,"SR",0,"Baltimore Polytechnic Institute",0,"University of Maryland",8,"0.Chambers.WR.Maryland.jpg","127,76,63",8,"#824F3A",8,0.115,0.026,0.021,95.987,1.267,2.584,"white",0
+970,"Tre Colbert",93,"DL","3-Jun",333,"SR",0,"-",0,"University of Maryland",8,"93.Colbert.DL.Maryland.jpg","117,63,49",8,"#824F3A",8,2.6,0.583,0.869,76.594,6.24,13.114,"white",0
+971,"Corey Coley Jr.",6,"DB","2-Jun",187,"JR",0,"Trinity Christian Academy",0,"University of Maryland",6,"6.Coley Jr..DB.Maryland.jpg","197,122,99",5,"#824F3A",8,0,0,100,0,0,0,"black",0.96
+972,"Tamarcus Cooley",14,"DB","Jun-00",196,"FR",0,"Rolesville",0,"University of Maryland",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+973,"Ricardo Cooper Jr.",26,"WR","9-May",165,"FR",0,"-",0,"University of Maryland",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+974,"David DeGuzman",50,"WR","3-Jun",232,"SO",0,"-",0,"University of Maryland",4,"50.DeGuzman.WR.Maryland.jpg","202,128,106",5,"#9D6A48",7,0.943,0.402,0.657,82.844,5.519,9.634,"white",0
+975,"Deandre Duffus",54,"OL","4-Jun",332,"FR",0,"Chaminade-Madonna Prep",0,"University of Maryland",8,"54.Duffus.OL.Maryland.jpg","102,60,49",9,"#824F3A",8,0.977,0.522,0.994,80.639,6.808,10.061,"white",0
+976,"Marcus Dumervil",58,"OL","6-Jun",301,"JR",0,"St. Thomas Aquinas",0,"University of Maryland",7,"58.Dumervil.OL.Maryland.jpg","141,77,60",8,"#824F3A",8,1.627,0.295,0.246,84.148,5.222,8.461,"white",0
+977,"Corey Dyches",2,"TE","2-Jun",215,"JR",0,"Potomac",0,"University of Maryland",8,"84.Dyches.TE.Maryland.jpg","152,104,87",7,"#824F3A",8,0.018,0.01,0.003,97.63,1.099,1.24,"white",0
+978,"Cameron Edge",12,"QB","2-Jun",218,"FR",19,"Smyrna",0,"University of Maryland",3,"12.Edge.QB.Maryland.jpg","210,143,119",4,"#CEB194",1,62.893,7.504,7.094,3.833,1.591,17.085,"asian",0.91
+979,"Billy Edwards Jr.",9,"QB","4-Jun",219,"SO",0,"Lake Braddock",0,"University of Maryland",2,"9.Edwards Jr..QB.Maryland.jpg","202,141,119",4,"#CEB194",1,0.277,0.052,0.007,93.258,2.247,4.159,"white",0
+980,"Conor Fagan",75,"OL","8-Jun",300,"JR",0,"-",0,"University of Maryland",3,"75.Fagan.OL.Maryland.jpg","211,153,129",2,"#CEB194",1,0,0.001,0,96.301,1.014,2.684,"white",0.95
+981,"Jaiden Fair",38,"WR","8-May",158,"FR",0,"-",0,"University of Maryland",4,"38.Fair.WR.Maryland.jpg","199,122,97",5,"#9D6A48",7,6.664,39.985,39.276,1.482,1.621,10.972,"indian",0.93
+982,"Tai Felton",10,"WR","2-Jun",185,"JR",0,"Stone Bridge",0,"University of Maryland",7,"10.Felton.WR.Maryland.jpg","139,79,61",8,"#824F3A",8,0,0.001,99.999,0,0,0,"black",0.94
+983,"Perry Fisher",20,"DB","3-Jun",198,"FR",0,"Lincoln",0,"University of Maryland",7,"20.Fisher.DB.Maryland.jpg","137,80,66",8,"#824F3A",8,0.074,0.768,98.953,0.001,0,0.204,"black",0.94
+984,"Rex Fleming",41,"DB","11-May",192,"SR",0,"Northern",0,"University of Maryland",4,"41.Fleming.DB.Maryland.jpg","192,131,112",5,"#9D6A48",7,0.565,2.406,0.416,44.668,20.998,30.947,"white",0.93
+985,"Jake Foggia",45,"LS","Jun-00",208,"JR",0,"-",0,"University of Maryland",2,"45.Foggia.LS.Maryland.jpg","216,162,146",2,"#CEB194",1,0.38,0.998,0.067,47.2,25.536,25.819,"white",0.91
+986,"Dillan Fontus",46,"DL","4-Jun",286,"FR",0,"Canarsie",0,"University of Maryland",8,"46.Fontus.DL.Maryland.jpg","137,89,79",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+987,"Quashon Fuller",5,"DL","3-Jun",266,"JR",0,"Lehigh Senior",0,"University of Maryland",7,"5.Fuller.DL.Maryland.jpg","134,79,53",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+988,"Gavin Gibson",26,"DB","11-May",182,"SO",0,"William Amos Hough",0,"University of Maryland",6,"26.Gibson.DB.Maryland.jpg","182,129,101",5,"#9D6A48",7,0.105,0.036,99.847,0,0,0.011,"black",0.93
+989,"Delmar Glaze",74,"OL","5-Jun",328,"JR",0,"West Mecklenburg",0,"University of Maryland",8,"74.Glaze.OL.Maryland.jpg","134,82,66",8,"#824F3A",8,0.755,0.789,2.021,77.39,7.444,11.599,"white",0
+990,"Dylan Gooden",51,"LB","4-Jun",198,"FR",0,"Wilde Lake",0,"University of Maryland",7,"51.Gooden.LB.Maryland.jpg","137,84,70",8,"#824F3A",8,0.002,0.686,99.29,0,0,0.022,"black",0.93
+991,"Fa'Najae Gotay",9,"LB","Jun-00",230,"SR",0,"North Fort Myers",0,"University of Maryland",6,"9.Gotay.LB.Maryland.jpg","192,128,99",5,"#9D6A48",7,3.693,10.275,75.21,0.408,0.26,10.154,"black",0.91
+992,"Ethan Gough",59,"LS","1-Jun",225,"SO",0,"-",0,"University of Maryland",2,"59.Gough.LS.Maryland.jpg","185,131,121",5,"#CBAD8E",2,1.339,1.583,0.104,50.97,18.891,27.112,"white",0.94
+993,"Sean Greeley",22,"LB","1-Jun",228,"SR",0,"-",0,"University of Maryland",2,"22.Greeley.LB.Maryland.jpg","187,137,124",5,"#9D6A48",7,0,0,0,99.992,0.003,0.005,"white",0.94
+994,"Darius Grimes",48,"LB","2-Jun",245,"FR",0,"-",0,"University of Maryland",8,"48.Grimes.LB.Maryland.jpg","125,79,63",8,"#824F3A",8,0,0,100,0,0,0,"black",0.95
+995,"Chantz Harley",24,"DB","1-Jun",188,"SO",0,"-",0,"University of Maryland",6,"24.Harley.DB.Maryland.jpg","180,116,98",6,"#824F3A",8,0,0.132,99.867,0,0,0,"black",0.93
+996,"Aric Harris",66,"OL","3-Jun",295,"SR",0,"Escambia",0,"University of Maryland",7,"66.Harris.OL.Maryland.jpg","133,86,65",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+997,"Michael Harris",31,"LB","Jun-00",207,"FR",0,"Lake Brantley",0,"University of Maryland",8,"31.Harris.LB.Maryland.jpg","122,73,59",8,"#824F3A",8,0.005,0.015,99.977,0,0,0.002,"black",0.93
+998,"Leon Haughton Jr.",16,"WR","4-Jun",226,"SO",0,"Benedictine",0,"University of Maryland",7,"16.Haughton Jr..WR.Maryland.jpg","145,81,62",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+999,"Roman Hemby",24,"RB","2-Jun",202,"SO",0,"John Carroll School",0,"University of Maryland",7,"24.Hemby.RB.Maryland.jpg","145,84,69",8,"#824F3A",8,3.311,0.016,0.002,94.679,0.898,1.094,"white",0.95
+1000,"Preston Howard",85,"TE","5-Jun",238,"FR",0,"McDonogh School",0,"University of Maryland",4,"85.Howard.TE.Maryland.jpg","204,148,129",4,"#CBAD8E",2,11.778,7.189,5.12,20.352,13.88,41.682,"latino hispanic",0.91
+1001,"Jack Howes",91,"K","1-Jun",202,"SO",0,"-",0,"University of Maryland",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1002,"Alec Hughes",36,"WR","2-Jun",203,"FR",0,"-",0,"University of Maryland",4,"36.Hughes.WR.Maryland.jpg","229,171,153",1,"#CEB194",1,0,0,0,99.992,0.005,0.003,"white",0.93
+1003,"Leron Husbands",82,"TE","4-Jun",231,"SO",0,"Charles Herbert Flowers",0,"University of Maryland",8,"82.Husbands.TE.Maryland.jpg","109,69,52",8,"#824F3A",8,0,0,100,0,0,0,"black",0.95
+1004,"Ruben Hyppolite II",11,"LB","Jun-00",230,"SR",0,"McArthur",0,"University of Maryland",9,"11.Hyppolite II.LB.Maryland.jpg","62,40,32",10,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1005,"Joshua Jennings",83,"TE","4-Jun",247,"SO",0,"-",0,"University of Maryland",2,"83.Jennings.TE.Maryland.jpg","221,164,147",1,"#CEB194",1,0,0,0,99.165,0.729,0.107,"white",0.93
+1006,"Evan Johnson",98,"K","11-May",226,"SR",0,"-",0,"University of Maryland",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1007,"Lavon Johnson",90,"DL","2-Jun",326,"FR",0,"Cheshire Academy",0,"University of Maryland",5,"90.Johnson.DL.Maryland.jpg","174,111,91",6,"#824F3A",8,13.604,14.925,47.908,4.067,3.209,16.288,"black",0.94
+1008,"Taizse Johnson",40,"DL","2-Jun",298,"JR",0,"St. John's",0,"University of Maryland",6,"90.Johnson.DL.Maryland.jpg","174,111,91",6,"#824F3A",8,13.604,14.925,47.908,4.067,3.209,16.288,"black",0.94
+1009,"Jeshaun Jones",6,"WR","1-Jun",188,"SR",0,"South Fort Myers",0,"University of Maryland",3,"88.Jones.WR.Maryland.jpg","189,119,99",6,"#9D6A48",7,6.918,57.378,18.604,0.484,0.251,16.364,"indian",0.91
+1010,"Khalid Jones",88,"WR","1-Jun",186,"SO",0,"-",0,"University of Maryland",4,"88.Jones.WR.Maryland.jpg","189,119,99",6,"#9D6A48",7,6.918,57.378,18.604,0.484,0.251,16.364,"indian",0.91
+1011,"Parker Jones",37,"WR","3-Jun",209,"FR",0,"-",0,"University of Maryland",7,"88.Jones.WR.Maryland.jpg","189,119,99",6,"#9D6A48",7,6.918,57.378,18.604,0.484,0.251,16.364,"indian",0.91
+1012,"Kevin Kalonji",77,"OL","5-Jun",333,"JR",0,"The Avalon School",0,"University of Maryland",8,"77.Kalonji.OL.Maryland.jpg","116,69,55",8,"#824F3A",8,1.256,0.638,0.715,78.973,7.34,11.078,"white",0
+1013,"Shaleak Knotts",4,"WR","2-Jun",192,"SO",0,"Monroe",0,"University of Maryland",8,"4.Knotts.WR.Maryland.jpg","135,89,71",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1014,"Antwain Littleton II",7,"RB","1-Jun",232,"SO",0,"St. John's",0,"University of Maryland",7,"7.Littleton II.RB.Maryland.jpg","133,81,66",8,"#824F3A",8,0.004,0.006,0.006,97.757,1.22,1.007,"white",0
+1015,"Champ Long",14,"QB","Jun-00",221,"FR",0,"-",0,"University of Maryland",2,"14.Long.QB.Maryland.jpg","214,138,115",4,"#CBAD8E",2,48.74,1.456,0.942,37.167,3.272,8.422,"asian",0.96
+1016,"Kyle Long",76,"OL","6-Jun",328,"SO",0,"Hazelwood Central",0,"University of Maryland",6,"76.Long.OL.Maryland.jpg","185,127,110",5,"#824F3A",8,0,0.019,99.98,0,0,0.001,"black",0.91
+1017,"Khristopher Love",60,"OL","3-Jun",327,"JR",0,"American Heritage",0,"University of Maryland",7,"60.Love.OL.Maryland.jpg","138,81,66",8,"#824F3A",8,0,0.003,99.997,0,0,0,"black",0.94
+1018,"Ian Maloney",29,"LB","Jun-00",212,"SO",0,"-",0,"University of Maryland",2,"29.Maloney.LB.Maryland.jpg","207,153,138",2,"#9D6A48",7,0,0,0,99.691,0.172,0.137,"white",0.95
+1019,"Ryan Manning",11,"WR","10-May",184,"FR",0,"St. Frances Academy",0,"University of Maryland",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1020,"Eli Mason",27,"RB","1-Jun",217,"SO",0,"-",0,"University of Maryland",5,"27.Mason.RB.Maryland.jpg","196,126,99",5,"#9D6A48",7,0.334,0.637,97.911,0.007,0.008,1.102,"black",0.93
+1021,"Thomas McCluskey",48,"TE","6-Jun",249,"FR",0,"-",0,"University of Maryland",2,"48.McCluskey.TE.Maryland.jpg","214,155,135",2,"#CEB194",1,0,0,0,99.878,0.081,0.042,"white",0.94
+1022,"Colby McDonald",23,"RB","11-May",208,"JR",0,"St. John's",0,"University of Maryland",5,"23.McDonald.RB.Maryland.jpg","217,161,143",2,"#9D6A48",7,76.971,5.969,1.152,2.067,0.398,13.443,"asian",0.93
+1023,"Glendon Miller",13,"DB","4-Jun",201,"JR",0,"Ridgeview",0,"University of Maryland",5,"13.Miller.DB.Maryland.jpg","188,122,99",6,"#9D6A48",7,8.416,7.164,11.492,14.964,7.483,50.48,"latino hispanic",0.93
+1024,"Billy Molloy",63,"OL","7-Jun",258,"FR",0,"-",0,"University of Maryland",2,"63.Molloy.OL.Maryland.jpg","197,131,114",5,"#CBAD8E",2,0.069,0.02,0.024,95.952,1.266,2.669,"white",0
+1025,"Alex Moore",18,"DB","Jun-00",184,"FR",0,"St. Vincent Pallotti",0,"University of Maryland",7,"9.Moore.DB.Michigan.jpg","108,84,71",8,"#544336",9,0,0,100,0,0,0,"black",0.93
+1026,"Amelio Moran",70,"OL","5-Jun",311,"SR",0,"Princess Anne",0,"University of Maryland",8,"70.Moran.OL.Maryland.jpg","132,79,64",8,"#824F3A",8,3.488,0.362,0.273,80.634,4.825,10.419,"white",0
+1027,"Mykel Morman",32,"DB","1-Jun",172,"FR",0,"Dr. Henry Wise",0,"University of Maryland",6,"32.Morman.DB.Maryland.jpg","180,105,79",7,"#824F3A",8,0.105,0.016,0.04,95.908,1.254,2.677,"white",0
+1028,"Tayvon Nelson",33,"DB","1-Jun",208,"FR",0,"Canarsie",0,"University of Maryland",5,"33.Nelson.DB.Maryland.jpg","174,118,104",6,"#9D6A48",7,2.801,11.304,78.072,0.315,0.299,7.208,"black",0.93
+1029,"Ja'Kavion Nonar",57,"OL","7-Jun",274,"FR",0,"Glades Central",0,"University of Maryland",8,"57.Nonar.OL.Maryland.jpg","115,65,52",8,"#824F3A",8,0.075,0.11,0.061,89.957,3.952,5.844,"white",0
+1030,"Daniel Owens",39,"DL","3-Jun",256,"FR",0,"Calvert Hall College",0,"University of Maryland",6,"39.Owens.DL.Maryland.jpg","137,74,58",8,"#824F3A",8,1.451,0.811,2.681,75.244,5.211,14.602,"white",0
+1031,"Michael Parker",30,"RB","8-May",183,"FR",0,"-",0,"University of Maryland",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1032,"Carson Petitbon",37,"DB","Jun-00",182,"FR",0,"-",0,"University of Maryland",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1033,"Jordan Phillips",8,"DL","3-Jun",311,"FR",19,"Ocoee",0,"University of Maryland",7,"8.Phillips.DL.Maryland.jpg","168,111,94",6,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1034,"Kaden Prather",1,"WR","4-Jun",212,"JR",0,"Northwest",0,"University of Maryland",7,"1.Prather.WR.Maryland.jpg","165,108,92",7,"#824F3A",8,0.001,0.049,99.944,0,0,0.007,"black",0.92
+1035,"Mike Purcell",52,"OL","4-Jun",325,"SR",0,"Centerville",0,"University of Maryland",2,"52.Purcell.OL.Maryland.jpg","213,146,129",4,"#9D6A48",7,1.711,0.738,0.254,67.1,11.48,18.717,"white",0.94
+1036,"Nolan Ray",25,"RB","Jun-00",207,"FR",0,"Brother Rice",0,"University of Maryland",6,"25.Ray.RB.Maryland.jpg","187,111,88",6,"#9D6A48",7,1.139,0.424,98.246,0,0,0.19,"black",0.96
+1037,"Josh Richards",86,"WR","3-Jun",177,"FR",0,"East Orange Campus",0,"University of Maryland",8,"86.Richards.WR.Maryland.jpg","139,81,63",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+1038,"Andre Roye Jr.",55,"OL","6-Jun",273,"FR",0,"St. Frances Academy",0,"University of Maryland",8,"55.Roye Jr..OL.Maryland.jpg","121,82,72",8,"#824F3A",8,0,0.002,99.998,0,0,0,"black",0.94
+1039,"DJ Samuels",42,"LB","Jun-00",256,"FR",0,"Bergen Catholic",0,"University of Maryland",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1040,"Jayden Sauray",13,"QB","10-May",205,"FR",0,"Dr. Henry Wise",0,"University of Maryland",7,"19.Ray.QB.Ohio State.jpg","214,164,148",1,"#CBAD8E",2,0.023,0.037,0.003,82.082,6.719,11.136,"white",0.89
+1041,"Lavain Scruggs",34,"DB","2-Jun",209,"FR",0,"Archbishop Spalding",0,"University of Maryland",3,"34.Scruggs.DB.Maryland.jpg","215,156,132",2,"#CBAD8E",2,13.412,10.817,8.305,13.305,10.102,44.058,"latino hispanic",0.92
+1042,"Brenden Segovia",43,"P","2-Jun",216,"SO",0,"Oaks Christian",0,"University of Maryland",3,"43.Segovia.P.Maryland.jpg","200,131,113",5,"#9D6A48",7,22.01,5.948,1.336,27.914,14.158,28.634,"latino hispanic",0.93
+1043,"Ja'Quan Sheppard",3,"DB","2-Jun",202,"SR",0,"Zephyrhills",0,"University of Maryland",8,"3.Sheppard.DB.Maryland.jpg","135,85,74",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+1044,"Robert Smith",87,"WR","11-May",200,"SO",0,"-",0,"University of Maryland",8,"87.Smith.WR.Maryland.jpg","125,76,65",8,"#824F3A",8,4.565,11.538,72.681,1.636,1.535,8.045,"black",0.93
+1045,"Octavian Smith Jr.",5,"WR","11-May",174,"SO",0,"Paint Branch",0,"University of Maryland",6,"87.Smith.WR.Maryland.jpg","125,76,65",8,"#824F3A",8,4.565,11.538,72.681,1.636,1.535,8.045,"black",0.93
+1046,"Colton Spangler",99,"P","Jun-00",192,"SR",0,"Chesapeake",0,"University of Maryland",2,"99.Spangler.P.Maryland.jpg","228,164,141",1,"#CEB194",1,0.004,0.006,0,95.725,2.864,1.402,"white",0.91
+1047,"Gereme Spraggins",21,"LB","Jun-00",238,"SR",0,"Arundel Sr.",0,"University of Maryland",8,"21.Spraggins.LB.Maryland.jpg","133,83,61",8,"#824F3A",8,0,0,100,0,0,0,"black",0.95
+1048,"Tarheeb Still",4,"DB","1-Jun",196,"SR",0,"Timber Creek",0,"University of Maryland",7,"4.Still.DB.Maryland.jpg","146,86,71",8,"#824F3A",8,0,0.001,99.997,0,0,0.001,"black",0.95
+1049,"John Stretch II",53,"LS","Jun-00",208,"FR",0,"-",0,"University of Maryland",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1050,"AJ Szymanski",89,"TE","5-Jun",255,"FR",0,"Loyola Blakefield",0,"University of Maryland",1,"89.Szymanski.TE.Maryland.jpg","218,147,130",2,"#9D6A48",7,1.399,0.603,0.646,79.703,7.444,10.206,"white",0
+1051,"Taulia Tagovailoa",3,"QB","11-May",208,"SR",0,"Thompson",0,"University of Maryland",5,"3.Tagovailoa.QB.Maryland.jpg","192,136,119",5,"#9D6A48",7,10.604,16.065,30.581,5.004,4.158,33.588,"latino hispanic",0.92
+1052,"Christian Teague",92,"DL","6-Jun",278,"SR",0,"-",0,"University of Maryland",6,"91.Teague.DL.Maryland.jpg","202,143,103",5,"#9D6A48",7,26.506,9.491,42.516,1.688,1.069,18.729,"black",0.91
+1053,"Kevis Thomas",25,"DB","Jun-00",182,"FR",0,"Lowndes",0,"University of Maryland",7,"25.Thomas.DB.Maryland.jpg","182,108,89",6,"#824F3A",8,1.771,0.517,0.458,91.153,2.801,3.299,"white",0
+1054,"Kobi Thomas",35,"LB","1-Jun",228,"SR",0,"-",0,"University of Maryland",7,"35.Thomas.LB.Maryland.jpg","141,87,67",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1055,"Dante Trader Jr.",12,"DB","11-May",200,"JR",0,"McDonogh School",0,"University of Maryland",5,"12.Trader Jr..DB.Maryland.jpg","183,123,100",6,"#9D6A48",7,1.593,1.479,92.778,0.145,0.12,3.884,"black",0.95
+1056,"Dylan Wade",18,"TE","3-Jun",222,"FR",0,"Jones",0,"University of Maryland",7,"18.Wade.TE.Maryland.jpg","135,77,59",8,"#824F3A",8,29.837,24.729,33.198,0.713,0.431,11.093,"black",0.94
+1057,"Rico Walker",17,"TE","4-Jun",248,"FR",0,"Hickory",0,"University of Maryland",7,"17.Walker.TE.Maryland.jpg","152,89,72",7,"#824F3A",8,0.031,0.114,0.005,88.978,6.102,4.77,"white",0
+1058,"Tamarus Walker",56,"OL","4-Jun",327,"FR",0,"McDonogh School",0,"University of Maryland",8,"76.Walker.OL.Ohio State.jpg","214,171,150",1,"#CBAD8E",2,5.14,6.267,2.123,33.829,26.358,26.282,"white",0.92
+1059,"Chris Wells",49,"DB","2-Jun",215,"FR",0,"-",0,"University of Maryland",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1060,"Caleb Wheatland",44,"LB","2-Jun",231,"SO",0,"Westfield",0,"University of Maryland",4,"44.Wheatland.LB.Maryland.jpg","202,146,128",4,"#9D6A48",7,2.959,2.234,0.58,41.883,17.148,35.197,"white",0.92
+1061,"Lionell Whitaker",17,"DB","10-May",186,"SO",0,"James Rickards",0,"University of Maryland",7,"17.Whitaker.DB.Maryland.jpg","149,83,61",8,"#824F3A",8,0,0,99.999,0,0,0,"black",0.92
+1062,"Avantae Williams",23,"DB","Jun-00",198,"JR",20,"Deland",0,"University of Maryland",7,"23.Williams.DB.Maryland.jpg","152,94,77",7,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1063,"Sean Williams",21,"WR","1-Jun",178,"FR",0,"St. John's",0,"University of Maryland",8,"21.Williams.WR.Maryland.jpg","116,75,63",8,"#824F3A",8,0,0,99.999,0,0,0,"black",0.93
+1064,"Riyad Wilmot",15,"LB","3-Jun",259,"JR",0,"St. Thomas Aquinas",0,"University of Maryland",6,"15.Wilmot.LB.Maryland.jpg","145,96,80",7,"#824F3A",8,0.31,0.23,97.367,0.02,0.023,2.05,"black",0.92
+1065,"Daniel Wingate",16,"LB","4-Jun",223,"FR",0,"St. Vincent Pallotti",0,"University of Maryland",7,"16.Wingate.LB.Maryland.jpg","140,77,60",8,"#824F3A",8,0.247,0.668,0.042,82.205,7.027,9.812,"white",0
+1066,"Braeden Wisloski",19,"WR","10-May",185,"FR",0,"Southern Columbia Area HS",0,"University of Maryland",2,"19.Wisloski.WR.Maryland.jpg","220,156,141",2,"#9D6A48",7,0,0,0,99.493,0.285,0.222,"white",0.91
+1067,"Kellan Wyatt",45,"LB","3-Jun",262,"SO",0,"Archbishop Spalding",0,"University of Maryland",4,"45.Wyatt.LB.Maryland.jpg","201,137,111",5,"#9D6A48",7,11.48,10.056,5.358,23.044,13.535,36.527,"latino hispanic",0.97
+1068,"Omari Abor",23,"DE","3-Jun",258,"SO",0,"Duncanville",0,"Ohio State",8,"23.Abor.DE.Ohio State.jpg","121,76,55",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1069,"David Adolph",82,"WR","4-Jun",215,"SO",0,"-",0,"Ohio State",1,"82.Adolph.WR.Ohio State.jpg","211,167,153",1,"#CBAD8E",2,0,0,0,99.997,0.002,0.001,"white",0.91
+1070,"Kojo Antwi",14,"WR","11-May",194,"SO",19,"Lambert",0,"Ohio State",7,"14.Antwi.WR.Ohio State.jpg","144,101,79",7,"#824F3A",8,0,0,100,0,0,0,"black",0.89
+1071,"Jayden Ballard",9,"WR","2-Jun",198,"JR",20,"Washington",0,"Ohio State",4,"9.Ballard.WR.Ohio State.jpg","214,167,150",1,"#CBAD8E",2,5.365,5.954,1.945,25.002,15.599,46.135,"latino hispanic",0.9
+1072,"Nolan Baudo",24,"WR","10-May",170,"FR",0,"-",0,"Ohio State",2,"24.Baudo.WR.Ohio State.jpg","219,177,163",1,"#CEB194",1,0,0,0,99.8,0.128,0.072,"white",0.91
+1073,"Jayden Bonsu",21,"S","1-Jun",205,"FR",0,"St. Peters Prep",0,"Ohio State",7,"21.Bonsu.S.Ohio State.jpg","124,80,63",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1074,"Devin Brown",33,"QB","3-Jun",213,"SO",0,"Corner Canyon",0,"Ohio State",3,"33.Brown.QB.Ohio State.jpg","220,170,151",1,"#CEB194",1,0,0,0,99.967,0.012,0.021,"white",0.9
+1075,"Jyaire Brown",18,"CB","11-May",183,"SO",0,"Lakota West",0,"Ohio State",7,"18.Brown.CB.Ohio State.jpg","130,81,61",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1076,"Denzel Burke",10,"CB","1-Jun",190,"JR",0,"Saguaro",0,"Ohio State",8,"10.Burke.CB.Ohio State.jpg","108,69,53",9,"#824F3A",8,0,0,100,0,0,0,"black",0.95
+1077,"Quinton Burke",64,"OL","5-Jun",310,"SR",0,"-",0,"Ohio State",3,"64.Burke.OL.Ohio State.jpg","212,164,143",2,"#CBAD8E",2,1.742,2.475,0.539,50.37,17.433,27.441,"white",0.91
+1078,"TC Caffey",28,"RB","10-May",215,"SO",0,"-",0,"Ohio State",6,"28.Caffey.RB.Ohio State.jpg","163,110,87",7,"#824F3A",8,0.004,0.177,99.811,0,0,0.008,"black",0.9
+1079,"Reid Carrico",28,"LB","2-Jun",235,"JR",21,"Ironton",0,"Ohio State",2,"28.Carrico.LB.Ohio State.jpg","216,175,160",1,"#CEB194",1,0,0,0,99.994,0.003,0.002,"white",0.92
+1080,"Ja'Had Carter",14,"S","1-Jun",203,"SR",0,"Henrico",0,"Ohio State",7,"14.Carter.S.Ohio State.jpg","39,24,17",10,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1081,"Cade Casto",60,"DL","Jun-00",275,"JR",0,"-",0,"Ohio State",2,"60.Casto.DL.Ohio State.jpg","218,170,152",1,"#CEB194",1,1.328,0.546,0.135,59.539,12.149,26.303,"white",0.89
+1082,"Steele Chambers",22,"LB","1-Jun",232,"SR",0,"Blessed Trinity Catholic",0,"Ohio State",5,"22.Chambers.LB.Ohio State.jpg","177,129,103",6,"#9D6A48",7,0,0.029,99.957,0,0,0.013,"black",0.91
+1083,"Bennett Christian",85,"TE","5-Jun",245,"SO",0,"Allatoona",0,"Ohio State",2,"85.Christian.TE.Ohio State.jpg","211,159,137",2,"#CBAD8E",2,15.044,10.061,5.924,18.544,13.035,37.392,"latino hispanic",0.92
+1084,"Caden Curry",92,"DE","3-Jun",260,"SO",0,"Center Grove",0,"Ohio State",3,"92.Curry.DE.Ohio State.jpg","215,168,144",2,"#CBAD8E",2,6.315,4.645,0.723,38.813,13.254,36.251,"white",0.9
+1085,"Victor Cutler Jr.",59,"OL","3-Jun",300,"SR",0,"West Monroe",0,"Ohio State",7,"59.Cutler Jr..OL.Ohio State.jpg","132,84,60",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1086,"Caden Davis",61,"DE","4-Jun",235,"FR",0,"-",0,"Ohio State",2,"61.Davis.DE.Ohio State.jpg","213,162,143",2,"#CEB194",1,0,0,0,99.477,0.481,0.042,"white",0.94
+1087,"Alec DelSignore",50,"LB","1-Jun",225,"FR",0,"-",0,"Ohio State",2,"50.DelSignore.LB.Ohio State.jpg","206,159,143",2,"#CEB194",1,0.033,0.015,0,94.171,2.593,3.189,"white",0.96
+1088,"Emeka Egbuka",2,"WR","1-Jun",206,"JR",20,"Steilacoom",0,"Ohio State",5,"2.Egbuka.WR.Ohio State.jpg","194,136,113",5,"#9D6A48",7,16.674,14.031,51.203,1.564,1.447,15.081,"black",0.94
+1089,"Tommy Eichenberg",35,"LB","2-Jun",239,"SR",0,"St Ignatius",0,"Ohio State",2,"35.Eichenberg.LB.Ohio State.jpg","233,188,170",1,"#CEB194",1,0,0,0,99.988,0.007,0.006,"white",0.92
+1090,"John Ferlmann",43,"LS","2-Jun",228,"JR",0,"Boulder Creek",0,"Ohio State",2,"43.Ferlmann.LS.Ohio State.jpg","216,175,157",1,"#CEB194",1,1.507,0.093,0.006,87.301,4.455,6.638,"white",0.95
+1091,"Jayden Fielding",38,"K","Jun-00",175,"SO",0,"IMG Academy",0,"Ohio State",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1092,"George Fitzpatrick",68,"OL","6-Jun",310,"SO",0,"Cherry Creek",0,"Ohio State",3,"68.Fitzpatrick.OL.Ohio State.jpg","206,160,143",2,"#CBAD8E",2,0.532,1.12,0.278,59.672,10.369,28.03,"white",0.89
+1093,"Julian Fleming",4,"WR","2-Jun",210,"SR",0,"Southern Columbia",0,"Ohio State",3,"4.Fleming.WR.Ohio State.jpg","208,158,136",2,"#CBAD8E",2,1.302,3.16,0.966,47.789,26.1,20.682,"white",0.92
+1094,"Josh Fryar",70,"OL","6-Jun",313,"SR",0,"Beech Grove",0,"Ohio State",2,"70.Fryar.OL.Ohio State.jpg","206,156,137",2,"#CBAD8E",2,1.464,1.417,0.143,60.574,17.16,19.242,"white",0.9
+1095,"Tristan Gebbia",13,"QB","2-Jun",210,"SR",0,"Calabasas",0,"Ohio State",3,"13.Gebbia.QB.Ohio State.jpg","210,163,143",2,"#CBAD8E",2,0,0,0,99.994,0.003,0.002,"white",0.9
+1096,"Nigel Glover",37,"LB","3-Jun",210,"FR",0,"Northmont",0,"Ohio State",5,"37.Glover.LB.Ohio State.jpg","199,142,110",5,"#9D6A48",7,7.511,14.577,28.397,9.961,8.232,31.323,"latino hispanic",0.92
+1097,"Julian Goines-Jackson",63,"OL","Jun-00",316,"SO",0,"-",0,"Ohio State",5,"74.Jackson.OL.Ohio State.jpg","120,73,57",8,"#824F3A",8,0.002,0.169,99.827,0,0,0.002,"black",0.94
+1098,"Kyion Grayes",7,"WR","Jun-00",187,"SO",20,"Chandler",0,"Ohio State",3,"7.Grayes.WR.Ohio State.jpg","206,158,134",2,"#CBAD8E",2,11.171,15.926,38.691,6,5.332,22.88,"black",0.94
+1099,"Diante Griffin",43,"CB","9-May",185,"SO",0,"-",0,"Ohio State",7,"43.Griffin.CB.Ohio State.jpg","148,99,77",7,"#824F3A",8,0,0,100,0,0,0,"black",0.9
+1100,"Patrick Gurd",49,"TE","4-Jun",240,"SR",0,"-",0,"Ohio State",3,"49.Gurd.TE.Ohio State.jpg","210,162,143",2,"#CEB194",1,0.036,0.052,0.002,77.633,6.073,16.203,"white",0.93
+1101,"Michael Hall Jr.",51,"DT","2-Jun",280,"JR",20,"Streetsboro",0,"Ohio State",7,"51.Hall Jr..DT.Ohio State.jpg","152,98,75",7,"#824F3A",8,18.787,6.516,71.579,0.069,0.022,3.026,"black",0.9
+1102,"Ty Hamilton",58,"DT","3-Jun",295,"SR",0,"Pickerington Central",0,"Ohio State",6,"58.Hamilton.DT.Ohio State.jpg","138,89,70",8,"#824F3A",8,0.02,1.417,98.513,0,0,0.051,"black",0.94
+1103,"Jordan Hancock",7,"CB","1-Jun",185,"JR",20,"North Gwinnett",0,"Ohio State",4,"7.Hancock.CB.Ohio State.jpg","197,145,120",4,"#A9855A",6,9.396,12.106,44.094,4.914,3.332,26.159,"black",0.92
+1104,"Marvin Harrison Jr.",18,"WR","4-Jun",205,"JR",0,"St. Joseph's Prep School",0,"Ohio State",9,"18.Harrison Jr..WR.Ohio State.jpg","112,72,56",8,"#824F3A",8,0.876,0.08,0.176,91.632,2.724,4.511,"white",0
+1105,"Sam Hart",81,"TE","5-Jun",255,"JR",0,"Cherokee Trail",0,"Ohio State",2,"81.Hart.TE.Ohio State.jpg","205,163,151",2,"#CEB194",1,0.002,0.002,0,96.914,1.504,1.578,"white",0.89
+1106,"Malik Hartford",25,"S","2-Jun",194,"FR",0,"Lakota West",0,"Ohio State",5,"25.Hartford.S.Ohio State.jpg","187,132,105",5,"#9D6A48",7,1.521,3.787,90.166,0.108,0.067,4.352,"black",0.92
+1107,"Will Hartson",30,"RB","9-May",205,"FR",0,"Washington",0,"Ohio State",6,"30.Hartson.RB.Ohio State.jpg","144,96,76",7,"#824F3A",8,0,0.103,99.897,0,0,0,"black",0.91
+1108,"Cedrick Hawkins",26,"S","11-May",182,"FR",0,"Cocoa",0,"Ohio State",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1109,"Dallan Hayden",5,"RB","10-May",205,"SO",0,"Christian Brothers",0,"Ohio State",6,"5.Hayden.RB.Ohio State.jpg","168,115,91",6,"#9D6A48",7,0.124,0.397,99.101,0.003,0.002,0.373,"black",0.92
+1110,"TreVeyon Henderson",32,"RB","10-May",212,"JR",20,"Hopewell",0,"Ohio State",5,"32.Henderson.RB.Ohio State.jpg","177,127,102",6,"#824F3A",8,18.312,13.144,49.058,1.497,1.176,16.813,"black",0.91
+1111,"Avery Henry",72,"OL","6-Jun",309,"SO",0,"St. Clairsville",0,"Ohio State",3,"72.Henry.OL.Ohio State.jpg","217,159,138",2,"#CBAD8E",2,23.896,6.583,6.133,24.371,13.78,25.236,"latino hispanic",0.92
+1112,"Zak Herbstreit",89,"TE","2-Jun",240,"JR",0,"Montgomery Bell Academy",0,"Ohio State",2,"89.Herbstreit.TE.Ohio State.jpg","231,185,167",1,"#CEB194",1,0.027,0.041,0.006,93.102,2.286,4.539,"white",0.92
+1113,"C.J. Hicks",11,"LB","3-Jun",230,"SO",0,"Archbishop Alter",0,"Ohio State",6,"11.Hicks.LB.Ohio State.jpg","169,116,91",6,"#9D6A48",7,0.002,0.009,99.981,0,0,0.008,"black",0.93
+1114,"Carson Hinzman",75,"OL","4-Jun",300,"SO",0,"Saint Croix Central",0,"Ohio State",2,"75.Hinzman.OL.Ohio State.jpg","208,155,139",2,"#CBAD8E",2,0.001,0,0,98.003,1.091,0.905,"white",0.92
+1115,"Davison Igbinosun",1,"CB","2-Jun",190,"SO",0,"Union",0,"Ohio State",7,"1.Igbinosun.CB.Ohio State.jpg","151,100,80",7,"#824F3A",8,0,0,100,0,0,0,"black",0.9
+1116,"Brandon Inniss",11,"WR","Jun-00",207,"FR",0,"American Heritage",0,"Ohio State",4,"11.Inniss.WR.Ohio State.jpg","207,155,134",2,"#CBAD8E",2,19.523,11.916,6.135,14.537,12.697,35.192,"latino hispanic",0.91
+1117,"Donovan Jackson",74,"OL","4-Jun",320,"JR",0,"Episcopal",0,"Ohio State",8,"74.Jackson.OL.Ohio State.jpg","120,73,57",8,"#824F3A",8,0.002,0.169,99.827,0,0,0.002,"black",0.94
+1118,"Kenyatta Jackson Jr.",97,"DE","5-Jun",258,"SO",0,"Chaminade-Madonna Prep",0,"Ohio State",7,"97.Jackson Jr..DE.Ohio State.jpg","124,81,62",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1119,"Jakob James",78,"OL","5-Jun",297,"SR",0,"Elder",0,"Ohio State",2,"78.James.OL.Ohio State.jpg","214,161,150",1,"#CBAD8E",2,0,0,0,99.239,0.577,0.183,"white",0.93
+1120,"Collin Johnson",96,"LS","Jun-00",225,"JR",0,"-",0,"Ohio State",2,"96.Johnson.LS.Ohio State.jpg","203,157,138",2,"#CBAD8E",2,0,0.001,0,95.525,1.859,2.615,"white",0.93
+1121,"Xavier Johnson",0,"WR","1-Jun",210,"SR",0,"Summit Country Day School",0,"Ohio State",6,"6.Johnson.WR.Michigan.jpg","178,121,95",6,"#9D6A48",7,0.009,0.053,99.898,0,0,0.041,"black",0.88
+1122,"Brenten Jones",32,"S","2-Jun",205,"SO",0,"-",0,"Ohio State",7,"32.Jones.S.Ohio State.jpg","128,88,71",8,"#824F3A",8,0.306,0.098,99.323,0.007,0.006,0.262,"black",0
+1123,"Matthew Jones",55,"OL","4-Jun",315,"SR",0,"Erasmus Hall",0,"Ohio State",8,"76.Jones.OL.Michigan.jpg","207,172,156",1,"#CBAD8E",2,0,0,0,100,0,0,"white",0.94
+1124,"Hero Kanu",93,"DT","4-Jun",305,"SO",0,"Santa Margarita Catholic",0,"Ohio State",4,"93.Kanu.DT.Ohio State.jpg","186,134,111",5,"#9D6A48",7,31.646,14.951,14.56,8.61,8.052,22.183,"asian",0.89
+1125,"Colin Kaufmann",34,"CB","10-May",188,"SO",0,"-",0,"Ohio State",3,"34.Kaufmann.CB.Ohio State.jpg","195,145,118",4,"#9D6A48",7,3.776,42.667,7.272,5.546,5.677,35.062,"indian",0.89
+1126,"Lincoln Kienholz",12,"QB","2-Jun",200,"FR",0,"T.F. Riggs",0,"Ohio State",3,"12.Kienholz.QB.Ohio State.jpg","206,154,140",2,"#CBAD8E",2,0.011,0.002,0,98.987,0.366,0.634,"white",0.9
+1127,"Cameron Kittle",38,"DB","Jun-00",182,"SR",0,"-",0,"Ohio State",2,"38.Kittle.DB.Ohio State.jpg","214,169,149",1,"#CEB194",1,0.016,0.003,0,96.444,1.12,2.417,"white",0.9
+1128,"Trey Leroux",69,"OL","7-Jun",315,"SR",0,"Norwalk",0,"Ohio State",2,"69.Leroux.OL.Ohio State.jpg","216,164,148",1,"#CEB194",1,0,0,0,99.939,0.049,0.012,"white",0.95
+1129,"Parker Lewis",23,"K","3-Jun",220,"SR",22,"Saguaro",0,"Ohio State",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1130,"Max Lomonico",48,"LS","3-Jun",225,"JR",0,"-",0,"Ohio State",2,"48.Lomonico.LS.Ohio State.jpg","217,176,163",1,"#CEB194",1,0,0,0,99.999,0.001,0,"white",0.94
+1131,"Mason Maggs",16,"QB","2-Jun",220,"SO",0,"Dublin Coffman",0,"Ohio State",2,"16.Maggs.QB.Ohio State.jpg","212,160,144",2,"#CEB194",1,0.008,0.032,0,89.972,5.869,4.119,"white",0.93
+1132,"Casey Magyar",95,"K","10-May",189,"JR",0,"Dublin Coffman",0,"Ohio State",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1133,"Tywone Malone",95,"DT","4-Jun",303,"JR",0,"Bergen Catholic",0,"Ohio State",8,"95.Malone.DT.Ohio State.jpg","103,63,49",9,"#824F3A",8,0.003,1.115,98.871,0,0,0.01,"black",0.91
+1134,"Cameron Martinez",3,"S","10-May",198,"SR",0,"Muskegon",0,"Ohio State",4,"3.Martinez.S.Ohio State.jpg","193,138,120",5,"#9D6A48",7,13.166,15.994,9.411,12.672,11.536,37.222,"latino hispanic",0.9
+1135,"Jermaine Mathews Jr.",24,"CB","11-May",182,"FR",0,"Winton Woods",0,"Ohio State",7,"24.Mathews Jr..CB.Ohio State.jpg","140,88,67",8,"#824F3A",8,0.005,0.008,99.97,0,0,0.017,"black",0.93
+1136,"Kyle McCord",6,"QB","3-Jun",215,"SO",0,"St. Joseph's",0,"Ohio State",2,"6.McCord.QB.Ohio State.jpg","230,185,168",1,"#CEB194",1,0.093,0.031,0.004,86.021,3.003,10.849,"white",0.9
+1137,"Kayden McDonald",56,"DL","2-Jun",319,"FR",0,"North Gwinnett",0,"Ohio State",7,"56.McDonald.DL.Ohio State.jpg","135,81,59",8,"#824F3A",8,0,0,100,0,0,0,"black",0.96
+1138,"Joe McGuire",42,"P","2-Jun",235,"FR",0,"-",0,"Ohio State",3,"42.McGuire.P.Ohio State.jpg","104,60,50",9,"#824F3A",8,1.381,2.088,0.288,48.634,22.256,25.353,"white",0.9
+1139,"Jaden McKenzie",90,"DT","2-Jun",286,"SR",0,"Wake Forest",0,"Ohio State",4,"90.McKenzie.DT.Ohio State.jpg","197,141,110",5,"#9D6A48",7,16.277,11.54,6.231,8.723,5.193,52.037,"latino hispanic",0.9
+1140,"Mitchell Melton",17,"LB","3-Jun",253,"SR",0,"Good Counsel",0,"Ohio State",6,"17.Melton.LB.Ohio State.jpg","159,107,87",7,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1141,"Zen Michalski",65,"OL","7-Jun",310,"JR",0,"Floyd Central",0,"Ohio State",2,"65.Michalski.OL.Ohio State.jpg","206,151,135",2,"#CBAD8E",2,0.001,0.006,0,92.566,6.484,0.944,"white",0.96
+1142,"Joshua Mickens",52,"DE","5-Jun",236,"FR",0,"Lawrence Central",0,"Ohio State",8,"52.Mickens.DE.Ohio State.jpg","121,77,61",8,"#824F3A",8,0,0.001,99.999,0,0,0,"black",0.92
+1143,"Jace Middleton",46,"TE","4-Jun",235,"JR",0,"-",0,"Ohio State",3,"46.Middleton.TE.Ohio State.jpg","221,171,152",1,"#CEB194",1,0.001,0.001,0,97.316,1.777,0.905,"white",0.89
+1144,"Jesse Mirco",29,"P","4-Jun",220,"JR",0,"ProKick Australia",0,"Ohio State",2,"29.Mirco.P.Ohio State.jpg","210,166,149",1,"#CBAD8E",2,0,0,0,99.594,0.212,0.193,"white",0.88
+1145,"Joop Mitchell",83,"WR","1-Jun",180,"JR",0,"Wyoming",0,"Ohio State",3,"83.Mitchell.WR.Ohio State.jpg","221,186,170",1,"#CEB194",1,0.007,0.002,0,95.837,1.426,2.728,"white",0.91
+1146,"Luke Montgomery",51,"OL","4-Jun",302,"FR",0,"Findlay",0,"Ohio State",3,"51.Montgomery.OL.Ohio State.jpg","204,165,149",2,"#CBAD8E",2,0.079,0.13,0.005,79.911,10.09,9.784,"white",0.92
+1147,"Andrew Moore",39,"S","Jun-00",190,"JR",0,"Cleveland Heights",0,"Ohio State",6,"39.Moore.S.Ohio State.jpg","144,92,71",7,"#824F3A",8,0,0,100,0,0,0,"black",0.9
+1148,"Jason Moore",94,"DL","6-Jun",295,"FR",0,"DeMatha Catholic",0,"Ohio State",4,"94.Moore.DL.Ohio State.jpg","205,157,131",2,"#A9855A",6,20.265,12.808,36.44,3.109,2.217,25.161,"black",0.93
+1149,"Jalen Pace",57,"LB","Jun-00",229,"JR",0,"Mary Institute & St Louis Country Day",0,"Ohio State",5,"57.Pace.LB.Ohio State.jpg","176,121,98",6,"#9D6A48",7,6.096,18.434,4.879,12.907,11.209,46.476,"latino hispanic",0.92
+1150,"Joshua Padilla",62,"OL","3-Jun",293,"FR",0,"Wayne",0,"Ohio State",3,"62.Padilla.OL.Ohio State.jpg","222,173,156",1,"#CEB194",1,0,0,0,99.846,0.032,0.122,"white",0.93
+1151,"Gabe Powers",36,"LB","4-Jun",235,"SO",0,"Marysville",0,"Ohio State",2,"36.Powers.LB.Ohio State.jpg","211,169,153",1,"#CBAD8E",2,0,0,0,99.96,0.028,0.011,"white",0.89
+1152,"Bryce Prater",62,"DL","Jun-00",279,"JR",0,"-",0,"Ohio State",3,"62.Prater.DL.Ohio State.jpg","219,164,146",1,"#CEB194",1,0.004,0.007,0,91.477,2.984,5.528,"white",0.95
+1153,"Josh Proctor",41,"S","2-Jun",205,"SR",0,"Owasso",0,"Ohio State",7,"41.Proctor.S.Ohio State.jpg","155,90,60",7,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1154,"Evan Pryor",21,"RB","11-May",198,"JR",20,"William Amos Hough",0,"Ohio State",7,"21.Pryor.RB.Ohio State.jpg","168,112,91",6,"#824F3A",8,0,0.003,99.993,0,0,0.004,"black",0.92
+1155,"Lathan Ransom",8,"S","1-Jun",210,"SR",0,"Salpointe Catholic",0,"Ohio State",4,"8.Ransom.S.Ohio State.jpg","206,161,141",2,"#A9855A",6,24.244,28.542,9.808,2.103,1.64,33.664,"latino hispanic",0.91
+1156,"Chad Ray",19,"QB","2-Jun",215,"SR",0,"-",0,"Ohio State",2,"19.Ray.QB.Ohio State.jpg","214,164,148",1,"#CBAD8E",2,0.023,0.037,0.003,82.082,6.719,11.136,"white",0.89
+1157,"Arvell Reese",20,"LB","3-Jun",235,"FR",0,"Glenville",0,"Ohio State",7,"20.Reese.LB.Ohio State.jpg","117,75,60",8,"#824F3A",8,0.149,0.224,3.664,86.821,3.687,5.456,"white",0
+1158,"Bryson Rodgers",86,"WR","2-Jun",185,"FR",0,"Wiregrass Ranch",0,"Ohio State",5,"86.Rodgers.WR.Ohio State.jpg","179,126,100",6,"#9D6A48",7,9.551,26.392,52.382,0.456,0.41,10.809,"black",0.92
+1159,"Noah Rogers",80,"WR","2-Jun",201,"FR",0,"Rolesville",0,"Ohio State",7,"80.Rogers.WR.Ohio State.jpg","127,75,55",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1160,"Joe Royer",84,"TE","5-Jun",255,"SR",0,"Elder",0,"Ohio State",3,"84.Royer.TE.Ohio State.jpg","207,159,139",2,"#CBAD8E",2,2.081,0.843,0.18,60.124,10.752,26.021,"white",0.93
+1161,"Ryan Rudzinski",46,"S","4-Jun",204,"FR",0,"-",0,"Ohio State",2,"46.Rudzinski.S.Ohio State.jpg","216,164,144",2,"#CBAD8E",2,18.029,1.584,0.444,51.514,6.503,21.925,"white",0.93
+1162,"Cayden Saunders",26,"RB","9-May",188,"JR",0,"-",0,"Ohio State",5,"26.Saunders.RB.Ohio State.jpg","183,128,98",6,"#9D6A48",7,0.47,1.184,96.828,0.058,0.035,1.425,"black",0.91
+1163,"Kai Saunders",25,"WR","2-Jun",205,"SO",0,"-",0,"Ohio State",6,"25.Saunders.WR.Ohio State.jpg","168,112,88",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.95
+1164,"Jack Sawyer",33,"DE","4-Jun",265,"JR",21,"Pickerington North",0,"Ohio State",2,"33.Sawyer.DE.Ohio State.jpg","224,172,158",1,"#CBAD8E",2,0,0,0,99.999,0,0.001,"white",0.92
+1165,"Brennen Schramm",34,"WR","11-May",191,"FR",0,"-",0,"Ohio State",2,"34.Schramm.WR.Ohio State.jpg","216,168,152",1,"#CEB194",1,0.002,0,0,99.411,0.14,0.447,"white",0.94
+1166,"Gee Scott Jr.",88,"TE","3-Jun",240,"SR",0,"Eastside Catholic",0,"Ohio State",5,"88.Scott Jr..TE.Ohio State.jpg","187,143,122",5,"#9D6A48",7,9.43,10.001,2.321,12.359,6.26,59.629,"latino hispanic",0.93
+1167,"Austin Siereveld",67,"OL","5-Jun",317,"FR",0,"Lakota East",0,"Ohio State",2,"67.Siereveld.OL.Ohio State.jpg","210,153,137",2,"#CBAD8E",2,0,0,0,99.997,0.001,0.001,"white",0.9
+1168,"Josh Simmons",71,"OL","5-Jun",310,"JR",20,"Helix",0,"Ohio State",6,"71.Simmons.OL.Ohio State.jpg","180,119,91",6,"#9D6A48",7,0.095,0.618,98.892,0.003,0.002,0.391,"black",0.92
+1169,"Cody Simon",30,"LB","2-Jun",235,"SR",0,"St. Peters Prep",0,"Ohio State",5,"30.Simon.LB.Ohio State.jpg","189,143,120",5,"#A9855A",6,11.744,2.097,79.745,0.125,0.054,6.235,"black",0.93
+1170,"Calvin Simpson-Hunt",15,"CB","1-Jun",195,"FR",0,"Waxahachie",0,"Ohio State",9,"15.Simpson-Hunt.CB.Ohio State.jpg","101,68,56",9,"#544336",9,0,0.153,99.846,0,0,0,"black",0.93
+1171,"Will Smith Jr.",53,"DL","3-Jun",294,"FR",0,"Dublin Coffman",0,"Ohio State",4,"53.Smith Jr..DL.Ohio State.jpg","199,151,130",4,"#CBAD8E",2,16.798,12.378,9.347,14.018,12.066,35.394,"latino hispanic",0.88
+1172,"Austin Snyder",98,"K","7-May",191,"JR",0,"-",0,"Ohio State",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1173,"Reis Stocksdale",87,"WR","9-May",188,"JR",0,"-",0,"Ohio State",2,"87.Stocksdale.WR.Ohio State.jpg","217,168,152",1,"#CEB194",1,0,0,0,100,0,0,"white",0.93
+1174,"Kye Stokes",13,"S","1-Jun",195,"SO",0,"Armwood",0,"Ohio State",8,"13.Stokes.S.Ohio State.jpg","117,70,51",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+1175,"Cade Stover",8,"TE","4-Jun",251,"SR",0,"Lexington",0,"Ohio State",3,"8.Stover.TE.Ohio State.jpg","203,162,144",2,"#CBAD8E",2,0,0,0,99.51,0.086,0.405,"white",0.91
+1176,"Sonny Styles",6,"S","4-Jun",230,"JR",0,"Pickerington Central",0,"Ohio State",6,"6.Styles.S.Ohio State.jpg","167,114,88",6,"#824F3A",8,27.631,15.164,27.563,3.052,2.488,24.103,"asian",0.9
+1177,"Lorenzo Styles Jr.",4,"CB","1-Jun",195,"JR",21,"Pickerington Central",0,"Ohio State",5,"4.Styles Jr..CB.Ohio State.jpg","201,150,126",4,"#A9855A",6,0.361,0.489,97.31,0.011,0.005,1.823,"black",0.93
+1178,"Carnell Tate",17,"WR","2-Jun",191,"FR",0,"IMG Academy",0,"Ohio State",8,"17.Tate.WR.Ohio State.jpg","138,87,67",8,"#824F3A",8,0,0,100,0,0,0,"black",0.95
+1179,"Jelani Thurman",15,"TE","6-Jun",258,"FR",0,"Langston Hughes",0,"Ohio State",8,"15.Thurman.TE.Ohio State.jpg","127,76,57",8,"#824F3A",8,0.096,1.655,97.894,0.002,0.001,0.352,"black",0.94
+1180,"Grant Toutant",73,"OL","7-Jun",327,"SR",0,"De La Salle Collegiate",0,"Ohio State",2,"73.Toutant.OL.Ohio State.jpg","223,176,160",1,"#CEB194",1,0,0,0,100,0,0,"white",0.93
+1181,"Chip Trayanum",19,"RB","11-May",233,"SR",0,"Archbishop Hoban",0,"Ohio State",6,"19.Trayanum.RB.Ohio State.jpg","169,116,94",6,"#824F3A",8,0,0.001,99.999,0,0,0,"black",0.91
+1182,"Tegra Tshabola",77,"OL","6-Jun",322,"SO",0,"Lakota West",0,"Ohio State",8,"77.Tshabola.OL.Ohio State.jpg","109,71,53",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1183,"JT Tuimoloau",44,"DE","4-Jun",270,"JR",20,"Eastside Catholic",0,"Ohio State",4,"44.Tuimoloau.DE.Ohio State.jpg","205,154,124",4,"#A9855A",6,5.698,7.234,1.956,32.815,18.145,34.152,"latino hispanic",0.93
+1184,"Ryan Turner",12,"CB","11-May",189,"SO",0,"Chaminade-Madonna Prep",0,"Ohio State",8,"12.Turner.CB.Ohio State.jpg","110,69,52",8,"#824F3A",8,0,0,100,0,0,0,"black",0.95
+1185,"Enokk Vimahi",66,"OL","4-Jun",313,"SR",0,"Kahuku",0,"Ohio State",4,"66.Vimahi.OL.Ohio State.jpg","222,173,149",1,"#CBAD8E",2,73.743,6.999,2.138,1.112,0.139,15.87,"asian",0.89
+1186,"Miles Walker",76,"OL","5-Jun",295,"FR",0,"Brunswick School",0,"Ohio State",3,"76.Walker.OL.Ohio State.jpg","214,171,150",1,"#CBAD8E",2,5.14,6.267,2.123,33.829,26.358,26.282,"white",0.92
+1187,"Miyan Williams",3,"RB","9-May",226,"SR",0,"Winton Woods",0,"Ohio State",6,"3.Williams.RB.Ohio State.jpg","155,103,79",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.91
+1188,"Tyleik Williams",91,"DT","2-Jun",290,"JR",0,"Unity Reed",0,"Ohio State",5,"91.Williams.DT.Ohio State.jpg","218,215,213",1,"#824F3A",8,5.476,5.466,79.197,0.355,0.193,9.313,"black",0.92
+1189,"Kourt Williams II",2,"LB","1-Jun",228,"SR",0,"St. John Bosco",0,"Ohio State",6,"2.Williams II.LB.Ohio State.jpg","173,118,95",6,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+1190,"Toby Wilson",54,"OL","2-Jun",290,"JR",0,"Olentangy",0,"Ohio State",2,"54.Wilson.OL.Ohio State.jpg","204,152,138",2,"#9D6A48",7,0.462,0.894,0.098,58.61,20.649,19.287,"white",0.91
+1191,"Raheem Anderson",62,"OL","3-Jun",316,"JR",0,"Cass Technical",0,"University of Michigan",9,"62.Anderson.OL.Michigan.jpg","118,81,60",8,"#824F3A",8,0,0,100,0,0,0,"black",0.94
+1192,"Stone Anderson",92,"K","2-Jun",190,"FR",0,"-",0,"University of Michigan",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1193,"Trevor Andrews",57,"LB","1-Jun",224,"JR",0,"-",0,"University of Michigan",2,"57.Andrews.LB.Michigan.jpg","201,163,152",2,"#CBAD8E",2,0.001,0,0,99.342,0.351,0.307,"white",0.92
+1194,"Nico Andrighetto",31,"DB","9-May",190,"SO",0,"-",0,"University of Michigan",3,"31.Andrighetto.DB.Michigan.jpg","195,143,128",4,"#9D6A48",7,0,0,0,99.209,0.406,0.385,"white",0.91
+1195,"Chibi Anwunah",97,"LB","5-Jun",268,"SO",0,"-",0,"University of Michigan",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1196,"Reece Atteberry",74,"DL","5-Jun",309,"SR",0,"Eaglecrest",0,"University of Michigan",2,"74.Atteberry.DL.Michigan.jpg","191,142,129",4,"#9D6A48",7,0,0,0,99.968,0.008,0.024,"white",0.94
+1197,"Brooks Bahr",51,"DL","5-Jun",298,"FR",0,"Loyola Academy",0,"University of Michigan",1,"51.Bahr.DL.Michigan.jpg","204,149,143",2,"#9D6A48",7,0,0,0,99.91,0.04,0.049,"white",0.92
+1198,"AJ Barner",89,"TE","6-Jun",251,"SR",21,"Aurora",0,"University of Michigan",3,"89.Barner.TE.Michigan.jpg","198,160,139",2,"#CBAD8E",2,0,0,0,99.885,0.109,0.006,"white",0.89
+1199,"Karsen Barnhart",52,"OL","5-Jun",316,"SR",0,"Paw Paw",0,"University of Michigan",3,"52.Barnhart.OL.Michigan.jpg","203,162,149",2,"#A9855A",6,0,0,0,99.752,0.215,0.033,"white",0.92
+1200,"Michael Barrett",23,"LB","Jun-00",239,"SR",0,"Lowndes",0,"University of Michigan",6,"23.Barrett.LB.Michigan.jpg","184,134,103",5,"#9D6A48",7,0,0,100,0,0,0,"black",0.91
+1201,"Christian Bartholomew",27,"WR","Jun-00",187,"SR",0,"-",0,"University of Michigan",2,"27.Bartholomew.WR.Michigan.jpg","199,150,141",2,"#9D6A48",7,0.001,0.001,0,97.733,0.57,1.695,"white",0.9
+1202,"Josh Beetham",40,"TE","5-Jun",242,"SR",0,"Yorkville",0,"University of Michigan",2,"40.Beetham.TE.Michigan.jpg","204,157,149",2,"#9D6A48",7,0.526,0.071,0.008,87.559,3.966,7.871,"white",0.92
+1203,"Kendrick Bell",12,"WR","2-Jun",180,"FR",0,"Park Hill",0,"University of Michigan",5,"11.Bell.WR.UW.jpg","151,98,71",7,"#824F3A",8,0,0,100,0,0,0,"black",0.97
+1204,"Kechaun Bennett",52,"LB","4-Jun",257,"JR",0,"Suffield Academy",0,"University of Michigan",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1205,"Rayshaun Benny",26,"DL","4-Jun",296,"JR",0,"Oak Park",0,"University of Michigan",7,"26.Benny.DL.Michigan.jpg","132,91,69",8,"#824F3A",8,0,0,100,0,0,0,"black",0.91
+1206,"Zeke Berry",10,"DB","11-May",192,"SO",0,"De La Salle",0,"University of Michigan",7,"10.Berry.DB.Michigan.jpg","141,93,71",7,"#824F3A",8,0,0,100,0,0,0,"black",0.91
+1207,"Christian Boivin",40,"LB","Jun-00",220,"JR",0,"Traverse City West",0,"University of Michigan",2,"40.Boivin.LB.Michigan.jpg","194,151,136",2,"#9D6A48",7,1.236,1.464,0.148,56.98,11.996,28.177,"white",0.9
+1208,"Tristan Bounds",72,"OL","8-Jun",305,"JR",0,"Choate Rosemary Hall",0,"University of Michigan",2,"72.Bounds.OL.Michigan.jpg","219,175,165",1,"#CBAD8E",2,0,0,0,99.967,0.021,0.013,"white",0.92
+1209,"Evan Boutorwick",46,"LS","3-Jun",230,"SO",0,"-",0,"University of Michigan",2,"46.Boutorwick.LS.Michigan.jpg","196,148,135",2,"#A9855A",6,0,0,0,99.982,0.005,0.013,"white",0.9
+1210,"Cameron Brandt",91,"DL","4-Jun",277,"FR",0,"Sierra Canyon",0,"University of Michigan",7,"91.Brandt.DL.Michigan.jpg","164,110,91",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.93
+1211,"Max Bredeson",44,"TE","2-Jun",240,"JR",0,"-",0,"University of Michigan",2,"44.Bredeson.TE.Michigan.jpg","210,166,153",1,"#CBAD8E",2,2.189,7.082,0.39,44.979,32.464,12.895,"white",0.91
+1212,"Semaj Bridgeman",16,"LB","2-Jun",246,"FR",0,"Imhotep Institute",0,"University of Michigan",6,"16.Bridgeman.LB.Michigan.jpg","153,102,77",7,"#9D6A48",7,0.025,0.106,99.832,0,0,0.036,"black",0.91
+1213,"Cole Cabana",24,"RB","Jun-00",198,"FR",18,"Dexter",0,"University of Michigan",2,"24.Cabana.RB.Michigan.jpg","207,154,143",2,"#824F3A",8,0.572,0.128,0.007,85.783,5.946,7.563,"white",0.95
+1214,"Cameron Calhoun",22,"DB","Jun-00",173,"FR",0,"Winton Woods",0,"University of Michigan",7,"22.Calhoun.DB.Michigan.jpg","150,97,72",7,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1215,"Dale Chesson",84,"WR","Jun-00",190,"SR",0,"-",0,"University of Michigan",8,"84.Chesson.WR.Michigan.jpg","131,92,69",8,"#824F3A",8,0,0,100,0,0,0,"black",0.91
+1216,"Darrius Clemons",0,"WR","3-Jun",212,"SO",0,"Westview",0,"University of Michigan",6,"0.Clemons.WR.Michigan.jpg","174,127,101",6,"#9D6A48",7,3.71,3.841,88.177,0.326,0.132,3.813,"black",0.88
+1217,"Junior Colson",25,"LB","3-Jun",247,"JR",20,"Ravenwood",0,"University of Michigan",7,"25.Colson.LB.Michigan.jpg","130,89,66",8,"#824F3A",8,0.033,0.168,99.76,0,0,0.039,"black",0.93
+1218,"Blake Corum",2,"RB","8-May",213,"SR",22,"St. Frances Academy",0,"University of Michigan",4,"2.Corum.RB.Michigan.jpg","201,151,128",4,"#A9855A",6,4.124,7.539,4.28,24.953,39.935,19.168,"middle eastern",0.91
+1219,"Greg Crippen",51,"OL","4-Jun",309,"JR",21,"IMG Academy",0,"University of Michigan",2,"51.Crippen.OL.Michigan.jpg","202,154,141",2,"#CBAD8E",2,0,0,0,100,0,0,"white",0.9
+1220,"Micah Davis",37,"DB","1-Jun",199,"FR",0,"-",0,"University of Michigan",2,"37.Davis.DB.Michigan.jpg","212,165,156",1,"#9D6A48",7,0.565,0.551,0.009,87.508,10.43,0.937,"white",0.93
+1221,"Grayson Dee",38,"LB","1-Jun",228,"FR",0,"-",0,"University of Michigan",1,"38.Dee.LB.Michigan.jpg","207,177,165",1,"#CBAD8E",2,0,0,0,99.987,0.005,0.008,"white",0.92
+1222,"Jayden Denegal",4,"QB","5-Jun",235,"SO",0,"Apple Valley",0,"University of Michigan",5,"4.Denegal.QB.Michigan.jpg","175,127,97",6,"#9D6A48",7,2.35,6.316,78.449,0.267,0.146,12.473,"black",0.93
+1223,"Eamonn Dennis",80,"WR","10-May",188,"SR",0,"St John's",0,"University of Michigan",8,"80.Dennis.WR.Michigan.jpg","116,84,67",8,"#544336",9,0,0,100,0,0,0,"black",0.92
+1224,"Cristian Dixon",85,"WR","2-Jun",197,"JR",0,"Mater Dei",0,"University of Michigan",5,"85.Dixon.WR.Michigan.jpg","197,145,123",4,"#9D6A48",7,32.021,5.81,48.137,0.575,0.33,13.127,"black",0.91
+1225,"Tommy Doman",19,"K","4-Jun",215,"JR",0,"St. Mary's",0,"University of Michigan",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1226,"Henry Donohue",49,"RB","11-May",209,"JR",0,"-",0,"University of Michigan",3,"49.Donohue.RB.Michigan.jpg","202,162,148",2,"#CEB194",1,0.023,0.089,0.004,81.009,6.266,12.609,"white",0.91
+1227,"Tavierre Dunlap",22,"RB","Jun-00",229,"JR",20,"Del Valle",0,"University of Michigan",7,"22.Dunlap.RB.Michigan.jpg","145,97,77",7,"#824F3A",8,0,0.003,99.997,0,0,0,"black",0.95
+1228,"Donovan Edwards",7,"RB","1-Jun",210,"JR",20,"West Bloomfield",0,"University of Michigan",6,"7.Edwards.RB.Michigan.jpg","141,101,76",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.88
+1229,"Nathan Efobi",55,"OL","3-Jun",285,"FR",0,"South Forsyth",0,"University of Michigan",8,"55.Efobi.OL.Michigan.jpg","139,96,77",7,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1230,"Giovanni El-Hadi",58,"OL","5-Jun",318,"JR",20,"Adlai Stevenson",0,"University of Michigan",3,"58.El-Hadi.OL.Michigan.jpg","188,142,127",4,"#9D6A48",7,0.153,58.16,0.468,3.903,25.553,11.764,"indian",0.91
+1231,"Karmello English",5,"WR","11-May",190,"FR",0,"Central",0,"University of Michigan",7,"5.English.WR.Michigan.jpg","138,88,66",8,"#824F3A",8,0,0,100,0,0,0,"black",0.91
+1232,"Enow Etta",96,"LB","5-Jun",295,"FR",18,"Covenant Christian Academy",0,"University of Michigan",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1233,"Logan Forbes",35,"WR","2-Jun",193,"SO",0,"-",0,"University of Michigan",2,"35.Forbes.WR.Michigan.jpg","201,152,142",2,"#9D6A48",7,0.018,0.007,0,94.457,3.018,2.5,"white",0.92
+1234,"Leon Franklin",34,"RB","9-May",208,"SR",0,"-",0,"University of Michigan",7,"34.Franklin.RB.Michigan.jpg","147,106,88",7,"#824F3A",8,0.001,0.019,99.979,0,0,0.001,"black",0.93
+1235,"Andrew Gentry",75,"OL","7-Jun",327,"SO",0,"Columbine",0,"University of Michigan",3,"75.Gentry.OL.Michigan.jpg","226,182,167",1,"#CEB194",1,0.156,0.478,0.022,48.567,33.033,17.744,"white",0.88
+1236,"Dominick Giudice",56,"OL","4-Jun",305,"JR",0,"Mater Dei",0,"University of Michigan",2,"56.Giudice.OL.Michigan.jpg","205,161,150",2,"#CBAD8E",2,0.001,0.013,0,84.306,11.935,3.746,"white",0.91
+1237,"Cam Goode",99,"DL","1-Jun",314,"SR",0,"St. John's",0,"University of Michigan",6,"99.Goode.DL.Michigan.jpg","160,115,87",7,"#9D6A48",7,0.195,0.098,99.576,0.004,0.002,0.124,"black",0.93
+1238,"Mason Graham",55,"DL","3-Jun",318,"SO",0,"Servite",0,"University of Michigan",2,"55.Graham.DL.Michigan.jpg","193,150,135",2,"#9D6A48",7,0,0,0,97.793,1.58,0.627,"white",0.92
+1239,"Kenneth Grant",78,"DL","3-Jun",339,"SO",0,"Merrillville",0,"University of Michigan",7,"78.Grant.DL.Michigan.jpg","149,106,83",7,"#824F3A",8,1.447,1.118,17.868,60.079,6.628,12.859,"white",0
+1240,"German Green",33,"DB","2-Jun",190,"SR",0,"DeSoto",0,"University of Michigan",7,"33.Green.DB.Michigan.jpg","134,95,71",8,"#544336",9,0,0,100,0,0,0,"black",0.93
+1241,"Liam Groulx",53,"LB","Jun-00",227,"FR",0,"-",0,"University of Michigan",3,"53.Groulx.LB.Michigan.jpg","207,175,158",1,"#CEB194",1,0.011,0.009,0,93.045,3.634,3.302,"white",0.92
+1242,"Jack Grusser",14,"WR","Jun-00",175,"FR",0,"-",0,"University of Michigan",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1243,"TJ Guy",42,"LB","4-Jun",250,"JR",0,"Mansfield",0,"University of Michigan",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1244,"Benjamin Hall",28,"RB","11-May",234,"FR",0,"North Cobb",0,"University of Michigan",8,"28.Hall.RB.Michigan.jpg","124,87,65",8,"#824F3A",8,0,0.043,99.956,0,0,0.001,"black",0.91
+1245,"Jaylen Harrell",32,"LB","4-Jun",242,"SR",0,"Berkeley Prep",0,"University of Michigan",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1246,"Keshaun Harris",36,"DB","11-May",192,"SR",0,"-",0,"University of Michigan",7,"36.Harris.DB.Michigan.jpg","135,94,77",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1247,"Ernest Hausmann",15,"LB","2-Jun",237,"SO",20,"Columbus",0,"University of Michigan",9,"15.Hausmann.LB.Michigan.jpg","115,86,68",8,"#544336",9,0,0,100,0,0,0,"black",0.92
+1248,"LaDarius Henderson",73,"OL","4-Jun",315,"SR",21,"Waxahachie",0,"University of Michigan",8,"73.Henderson.OL.Michigan.jpg","134,98,77",7,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1249,"Amir Herring",50,"OL","3-Jun",300,"FR",0,"West Bloomfield",0,"University of Michigan",7,"50.Herring.OL.Michigan.jpg","139,91,71",8,"#824F3A",8,0.063,0.89,98.932,0,0,0.113,"black",0.92
+1250,"Jason Hewlett",19,"LB","2-Jun",224,"FR",0,"Chaney",0,"University of Michigan",7,"19.Hewlett.LB.Michigan.jpg","122,80,58",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1251,"Matthew Hibner",88,"TE","5-Jun",254,"SR",0,"Lake Braddock",0,"University of Michigan",2,"88.Hibner.TE.Michigan.jpg","207,167,151",1,"#CBAD8E",2,0,0,0,99.998,0,0.001,"white",0.93
+1252,"Jyaire Hill",20,"DB","2-Jun",181,"FR",18,"Kankakee",0,"University of Michigan",5,"20.Hill.DB.Michigan.jpg","183,140,119",5,"#9D6A48",7,0.028,0.007,99.964,0,0,0.001,"black",0.94
+1253,"Brandyn Hillman",6,"DB","Jun-00",200,"FR",0,"Churchland",0,"University of Michigan",7,"6.Hillman.DB.Michigan.jpg","177,123,98",6,"#9D6A48",7,0,0,100,0,0,0,"black",0.94
+1254,"Myles Hinton",78,"OL","6-Jun",340,"SR",0,"Greater Atlanta Christian School",0,"University of Michigan",7,"78.Hinton.OL.Michigan.jpg","135,98,77",7,"#544336",9,0,0,100,0,0,0,"black",0.91
+1255,"Jalen Hoffman",42,"TE","3-Jun",225,"FR",0,"-",0,"University of Michigan",7,"42.Hoffman.TE.Michigan.jpg","149,93,71",7,"#824F3A",8,1.912,1.258,78.908,9.648,1.223,7.051,"black",0
+1256,"Hudson Hollenbeck",90,"K","2-Jun",208,"SO",0,"-",0,"University of Michigan",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1257,"Jaydon Hood",34,"LB","1-Jun",225,"JR",0,"St. Thomas Aquinas",0,"University of Michigan",6,"34.Hood.LB.Michigan.jpg","177,121,96",6,"#9D6A48",7,0.004,0.009,99.986,0,0,0.001,"black",0.95
+1258,"Noah Howes",45,"TE","4-Jun",242,"JR",0,"Rochester",0,"University of Michigan",2,"45.Howes.TE.Michigan.jpg","203,161,148",2,"#9D6A48",7,0.001,0,0,99.681,0.093,0.225,"white",0.88
+1259,"Danny Hughes",37,"RB","Jun-00",208,"SR",0,"-",0,"University of Michigan",2,"37.Hughes.RB.Michigan.jpg","211,172,161",1,"#9D6A48",7,0.014,0.003,0,95.648,1.128,3.207,"white",0.9
+1260,"Breeon Ishmail",58,"LB","3-Jun",262,"FR",0,"Princeton",0,"University of Michigan",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1261,"Ike Iwunnah",92,"DL","3-Jun",313,"JR",0,"Lakeview Centennial",0,"University of Michigan",9,"92.Iwunnah.DL.Michigan.jpg","124,92,71",8,"#544336",9,0,0,100,0,0,0,"black",0.94
+1262,"Kris Jenkins",94,"DL","3-Jun",305,"SR",0,"Our Lady Good Counsel HS",0,"University of Michigan",6,"94.Jenkins.DL.Michigan.jpg","180,127,102",6,"#9D6A48",7,0,0,100,0,0,0,"black",0.91
+1263,"Cornelius Johnson",6,"WR","3-Jun",208,"SR",0,"Brunswick School",0,"University of Michigan",6,"6.Johnson.WR.Michigan.jpg","178,121,95",6,"#9D6A48",7,0.009,0.053,99.898,0,0,0.041,"black",0.88
+1264,"Quinten Johnson",28,"DB","11-May",200,"SR",0,"St. John's",0,"University of Michigan",6,"28.Johnson.DB.Michigan.jpg","139,99,76",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.89
+1265,"Will Johnson",2,"DB","2-Jun",202,"SO",0,"Grosse Pointe South",0,"University of Michigan",5,"28.Johnson.DB.Michigan.jpg","139,99,76",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.89
+1266,"Connor Jones",76,"OL","6-Jun",320,"SO",0,"Palmer Ridge",0,"University of Michigan",3,"76.Jones.OL.Michigan.jpg","207,172,156",1,"#CBAD8E",2,0,0,0,100,0,0,"white",0.94
+1267,"Kody Jones",14,"DB","11-May",195,"SO",0,"Germantown",0,"University of Michigan",7,"14.Jones.DB.Michigan.jpg","136,86,61",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1268,"Trente Jones",53,"OL","4-Jun",325,"SR",0,"Grayson",0,"University of Michigan",7,"76.Jones.OL.Michigan.jpg","207,172,156",1,"#CBAD8E",2,0,0,0,100,0,0,"white",0.94
+1269,"Cordell Jones-McNally",97,"K","8-May",175,"FR",0,"-",0,"University of Michigan",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1270,"James Kavouklis",64,"OL","1-Jun",279,"SO",0,"-",0,"University of Michigan",4,"64.Kavouklis.OL.Michigan.jpg","187,140,123",5,"#9D6A48",7,0.601,1.598,0.236,59.781,12.841,24.944,"white",0.91
+1271,"Trevor Keegan",77,"OL","6-Jun",320,"SR",0,"Crystal Lake South",0,"University of Michigan",3,"77.Keegan.OL.Michigan.jpg","211,167,147",2,"#CBAD8E",2,0,0,0,93.305,6.018,0.677,"white",0.87
+1272,"Marlin Klein",17,"TE","6-Jun",250,"SO",0,"Rabun Gap-Nacoochee School",0,"University of Michigan",3,"17.Klein.TE.Michigan.jpg","196,158,144",2,"#CBAD8E",2,0.039,0.048,0.005,85.808,4.827,9.273,"white",0.9
+1273,"Joey Klunder",93,"LB","3-Jun",276,"SO",0,"-",0,"University of Michigan",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1274,"Caden Kolesar",35,"DB","10-May",195,"SR",0,"-",0,"University of Michigan",4,"35.Kolesar.DB.Michigan.jpg","181,133,114",5,"#9D6A48",7,1.827,5.519,1.497,34.646,24.694,31.817,"white",0.94
+1275,"Aymeric Koumba",90,"LB","5-Jun",254,"FR",0,"Pionniers de Touraine",0,"University of Michigan",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1276,"Bryson Kuzdzal",41,"RB","11-May",193,"FR",0,"-",0,"University of Michigan",4,"41.Kuzdzal.RB.Michigan.jpg","187,136,114",5,"#9D6A48",7,8.733,12.416,31.897,6.828,5.304,34.822,"latino hispanic",0.92
+1277,"Evan Link",71,"OL","6-Jun",307,"FR",0,"Gonzaga",0,"University of Michigan",2,"71.Link.OL.Michigan.jpg","207,159,148",2,"#9D6A48",7,0,0,0,100,0,0,"white",0.92
+1278,"Alessandro Lorenzetti",89,"DL","5-Jun",301,"SO",0,"The Loomis Chaffee School",0,"University of Michigan",3,"89.Lorenzetti.DL.Michigan.jpg","191,153,137",2,"#A9855A",6,0,0,0,97.255,2.156,0.589,"white",0.92
+1279,"Colston Loveland",18,"TE","5-Jun",245,"SO",0,"Gooding",0,"University of Michigan",3,"18.Loveland.TE.Michigan.jpg","195,153,136",2,"#9D6A48",7,0,0,0,98.11,0.943,0.946,"white",0.91
+1280,"Joshua Luther",41,"DB","9-May",182,"SR",0,"-",0,"University of Michigan",3,"41.Luther.DB.Michigan.jpg","197,157,143",2,"#9D6A48",7,0.04,0.11,0.016,75.5,9.193,15.139,"white",0.9
+1281,"Jack MacKinnon",39,"LB","4-Jun",244,"FR",0,"-",0,"University of Michigan",2,"39.MacKinnon.LB.Michigan.jpg","214,166,154",1,"#9D6A48",7,0,0.002,0,96.52,2.274,1.204,"white",0.91
+1282,"Jesse Madden",43,"DB","1-Jun",180,"JR",0,"-",0,"University of Michigan",2,"43.Madden.DB.Michigan.jpg","206,165,150",2,"#CEB194",1,0.012,0.03,0.002,84.636,5.238,10.083,"white",0.87
+1283,"Brandon Mann",46,"DB","3-Jun",231,"SO",0,"-",0,"University of Michigan",5,"46.Mann.DB.Michigan.jpg","175,128,101",6,"#9D6A48",7,37.646,13.885,22.36,3.297,2.238,20.574,"asian",0.93
+1284,"Zack Marshall",83,"TE","4-Jun",232,"FR",0,"Carlsbad",0,"University of Michigan",2,"83.Marshall.TE.Michigan.jpg","211,158,141",2,"#9D6A48",7,53.003,2.897,0.643,21.216,5.058,17.182,"asian",0.91
+1285,"Ja'Den McBurrows",18,"DB","11-May",200,"JR",0,"St. Thomas Aquinas",0,"University of Michigan",6,"18.McBurrows.DB.Michigan.jpg","161,106,75",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.92
+1286,"J.J. McCarthy",9,"QB","3-Jun",202,"JR",20,"IMG Academy",0,"University of Michigan",3,"9.McCarthy.QB.Michigan.jpg","207,167,152",1,"#A9855A",6,0.34,0.286,0.015,74.623,11.363,13.372,"white",0.92
+1287,"Braiden McGregor",17,"LB","6-Jun",267,"SR",0,"Port Huron Northern",0,"University of Michigan",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1288,"Tyler McLaurin",27,"LB","3-Jun",247,"JR",0,"Bolingbrook",0,"University of Michigan",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1289,"Joel Metzger",54,"LB","1-Jun",226,"JR",0,"-",0,"University of Michigan",2,"54.Metzger.LB.Michigan.jpg","201,153,142",2,"#9D6A48",7,0,0,0,99.453,0.106,0.441,"white",0.93
+1290,"Derrick Moore",8,"LB","3-Jun",258,"SO",0,"St. Frances Academy",0,"University of Michigan",6,"44.Moore.LB.Michigan.jpg","197,151,139",2,"#9D6A48",7,1.511,0.665,0.176,64.06,9.702,23.887,"white",0.92
+1291,"Fredrick Moore",3,"WR","1-Jun",180,"FR",0,"Cardinal Ritter College Prep",0,"University of Michigan",7,"3.Moore.WR.Michigan.jpg","138,92,72",8,"#824F3A",8,0,0,100,0,0,0,"black",0.92
+1292,"Hayden Moore",44,"LB","2-Jun",226,"FR",0,"Regis Jesuit",0,"University of Michigan",2,"44.Moore.LB.Michigan.jpg","197,151,139",2,"#9D6A48",7,1.511,0.665,0.176,64.06,9.702,23.887,"white",0.92
+1293,"Rod Moore",9,"DB","Jun-00",198,"JR",0,"Northmont",0,"University of Michigan",9,"9.Moore.DB.Michigan.jpg","108,84,71",8,"#544336",9,0,0,100,0,0,0,"black",0.93
+1294,"Cole Morgan",54,"OL","4-Jun",270,"FR",0,"-",0,"University of Michigan",2,"54.Morgan.OL.Michigan.jpg","222,185,173",1,"#CEB194",1,0.536,11.532,0.262,41.738,14.221,31.711,"white",0.9
+1295,"Semaj Morgan",82,"WR","10-May",176,"FR",0,"West Bloomfield",0,"University of Michigan",7,"12.Morgan.WR.Michigan.jpg","138,86,60",8,"#824F3A",8,0.002,0.016,99.978,0,0,0.004,"black",0.91
+1296,"Tyler Morris",8,"WR","11-May",185,"SO",0,"Nazareth Academy",0,"University of Michigan",5,"8.Morris.WR.Michigan.jpg","180,137,110",5,"#9D6A48",7,20.017,17.166,26.74,3.621,2.785,29.671,"latino hispanic",0.9
+1297,"Kalel Mullings",20,"RB","2-Jun",239,"SR",0,"Milton Academy",0,"University of Michigan",6,"20.Mullings.RB.Michigan.jpg","148,99,76",7,"#9D6A48",7,0,0,100,0,0,0,"black",0.93
+1298,"Jerome Nichols",50,"LB","Jun-00",235,"SR",0,"-",0,"University of Michigan",5,"50.Nichols.LB.Michigan.jpg","186,129,104",5,"#9D6A48",7,0.013,0.013,99.967,0,0,0.006,"black",0.92
+1299,"Joshua Nichols",29,"DB","10-May",196,"SO",0,"-",0,"University of Michigan",5,"29.Nichols.DB.Michigan.jpg","177,121,92",6,"#9D6A48",7,49.815,10.933,18.466,1.372,0.626,18.788,"asian",0.89
+1300,"Drake Nugent",60,"OL","2-Jun",301,"SR",0,"Highlands Ranch",0,"University of Michigan",2,"60.Nugent.OL.Michigan.jpg","200,156,139",2,"#CBAD8E",2,0,0,0,100,0,0,"white",0.9
+1301,"Peyton O'Leary",81,"WR","3-Jun",200,"JR",0,"-",0,"University of Michigan",2,"81.O'Leary.WR.Michigan.jpg","209,172,159",1,"#CBAD8E",2,0,0,0,99.999,0,0.001,"white",0.89
+1302,"Alex Orji",10,"QB","3-Jun",236,"SO",0,"Sachse",0,"University of Michigan",6,"10.Orji.QB.Michigan.jpg","189,128,100",5,"#9D6A48",7,0,0,100,0,0,0,"black",0.94
+1303,"Makari Paige",7,"DB","4-Jun",208,"SR",0,"West Bloomfield",0,"University of Michigan",7,"7.Paige.DB.Michigan.jpg","126,89,67",8,"#544336",9,0,0,100,0,0,0,"black",0.93
+1304,"Jeffrey Persi",79,"OL","8-Jun",320,"SR",0,"J Serra Catholic",0,"University of Michigan",2,"79.Persi.OL.Michigan.jpg","224,179,170",1,"#CEB194",1,0,0,0,99.557,0.104,0.339,"white",0.91
+1305,"Zach Peterson",86,"WR","1-Jun",190,"SR",0,"-",0,"University of Michigan",2,"86.Peterson.WR.Michigan.jpg","199,163,146",2,"#CBAD8E",2,0,0,0,99.999,0.001,0,"white",0.92
+1306,"Trey Pierce",95,"DL","2-Jun",300,"FR",0,"-",0,"University of Michigan",7,"95.Pierce.DL.Michigan.jpg","174,119,94",6,"#824F3A",8,0.067,0.631,99.278,0,0,0.024,"black",0.92
+1307,"Micah Pollard",4,"LB","2-Jun",221,"SO",0,"Bartram Trail",0,"University of Michigan",6,"4.Pollard.LB.Michigan.jpg","171,124,94",6,"#9D6A48",7,0.006,0.071,99.92,0,0,0.003,"black",0.97
+1308,"Myles Pollard",24,"DB","1-Jun",190,"SO",0,"Ravenwood",0,"University of Michigan",7,"24.Pollard.DB.Michigan.jpg","152,111,87",7,"#824F3A",8,0,0,100,0,0,0,"black",0.91
+1309,"Will Rolapp",30,"WR","Jun-00",198,"SR",0,"-",0,"University of Michigan",3,"30.Rolapp.WR.Michigan.jpg","198,158,142",2,"#CBAD8E",2,0.002,0.012,0,92.082,5.72,2.185,"white",0.91
+1310,"Jimmy Rolder",30,"LB","2-Jun",233,"SO",0,"Marist",0,"University of Michigan",3,"30.Rolder.LB.Michigan.jpg","199,161,145",2,"#9D6A48",7,0.02,0.021,0,91.506,3.634,4.818,"white",0.95
+1311,"Keon Sabb",3,"DB","1-Jun",208,"SO",0,"IMG Academy",0,"University of Michigan",6,"3.Sabb.DB.Michigan.jpg","157,112,86",7,"#9D6A48",7,0.003,0.111,99.883,0,0,0.003,"black",0.94
+1312,"Mike Sainristil",0,"DB","10-May",182,"SR",0,"Everett",0,"University of Michigan",9,"0.Sainristil.DB.Michigan.jpg","112,84,67",8,"#544336",9,0,0,100,0,0,0,"black",0.95
+1313,"Adam Samaha",99,"K","11-May",185,"FR",0,"Huron",0,"University of Michigan",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1314,"Peter Simmons",70,"DL","1-Jun",283,"JR",0,"Bishop Verot",0,"University of Michigan",2,"70.Simmons.DL.Michigan.jpg","198,163,149",2,"#CBAD8E",2,0,0,0,98.564,1.204,0.232,"white",0.89
+1315,"Josaiah Stewart",5,"LB","1-Jun",245,"JR",0,"Everett",0,"University of Michigan",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1316,"Noah Stewart",61,"OL","7-Jun",292,"SR",0,"North Muskegon",0,"University of Michigan",3,"61.Stewart.OL.Michigan.jpg","214,171,153",1,"#CEB194",1,0.092,0.639,0.018,44.594,43.193,11.463,"white",0.91
+1317,"CJ Stokes",23,"RB","10-May",205,"SO",0,"Hammond School",0,"University of Michigan",8,"23.Stokes.RB.Michigan.jpg","128,91,67",8,"#824F3A",8,0,0,100,0,0,0,"black",0.93
+1318,"Greg Tarr",45,"LS","2-Jun",205,"SR",0,"Romeo",0,"University of Michigan",2,"45.Tarr.LS.Michigan.jpg","193,142,130",4,"#9D6A48",7,0,0,0,99.964,0.018,0.019,"white",0.92
+1319,"Joe Taylor",39,"WR","10-May",191,"JR",0,"-",0,"University of Michigan",2,"39.Taylor.WR.Michigan.jpg","201,159,144",2,"#CBAD8E",2,0.002,0.001,0,98.749,0.717,0.531,"white",0.9
+1320,"Jake Thaw",26,"WR","1-Jun",192,"SR",0,"-",0,"University of Michigan",3,"26.Thaw.WR.Michigan.jpg","206,167,149",2,"#CBAD8E",2,0.045,1.882,0.019,26.589,58.063,13.403,"middle eastern",0.91
+1321,"Deakon Tonielli",15,"TE","5-Jun",251,"FR",0,"Oswego",0,"University of Michigan",2,"15.Tonielli.TE.Michigan.jpg","201,156,143",2,"#9D6A48",7,0.012,0.075,0.004,79.478,12.204,8.227,"white",0.9
+1322,"James Turner",32,"K","Jun-00",196,"SR",0,"Saline",0,"University of Michigan",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1323,"Jack Tuttle",13,"QB","4-Jun",210,"SR",0,"Mission Hills",0,"University of Michigan",2,"13.Tuttle.QB.Michigan.jpg","203,167,155",1,"#CEB194",1,0,0,0,100,0,0,"white",0.89
+1324,"Joey Velazquez",29,"LB","Jun-00",222,"SR",0,"St. Francis De Sales",0,"University of Michigan",2,"29.Velazquez.LB.Michigan.jpg","193,139,126",4,"#9D6A48",7,4.444,2.946,1.366,41.71,16.404,33.128,"white",0.91
+1325,"William Wagner",49,"LS","2-Jun",255,"SR",0,"-",0,"University of Michigan",1,"49.Wagner.LS.Michigan.jpg","201,151,142",2,"#CEB194",1,0,0,0,100,0,0,"white",0.92
+1326,"Amorion Walker",1,"DB","3-Jun",180,"SO",0,"Ponchatoula",0,"University of Michigan",6,"1.Walker.DB.Michigan.jpg","153,113,89",7,"#9D6A48",7,0.304,3.785,95.611,0.003,0,0.297,"black",0.94
+1327,"Josh Wallace",12,"DB","Jun-00",190,"SR",0,"DeMatha Catholic",0,"University of Michigan",8,"12.Wallace.DB.Michigan.jpg","126,90,70",8,"#544336",9,0,0,100,0,0,0,"black",0.94
+1328,"DJ Waller Jr.",13,"DB","3-Jun",205,"FR",0,"Chaney",0,"University of Michigan",7,"13.Waller Jr..DB.Michigan.jpg","170,122,99",6,"#9D6A48",7,0,0,100,0,0,0,"black",0.92
+1329,"Davis Warren",16,"QB","2-Jun",195,"JR",0,"Loyola",0,"University of Michigan",2,"16.Warren.QB.Michigan.jpg","187,148,135",4,"#9D6A48",7,0.001,0.005,0,96.377,2.422,1.194,"white",0.92
+1330,"John Weidenbach",59,"LB","Jun-00",215,"FR",0,"-",0,"University of Michigan",2,"59.Weidenbach.LB.Michigan.jpg","207,161,147",2,"#CBAD8E",2,4.332,1.156,0.222,60.24,8.998,25.052,"white",0.89
+1331,"Bryce Wilcox",38,"DB","11-May",188,"SO",0,"-",0,"University of Michigan",2,"38.Wilcox.DB.Michigan.jpg","206,164,150",2,"#CBAD8E",2,0,0,0,99.954,0.026,0.021,"white",0.9
+1332,"Roman Wilson",1,"WR","Jun-00",192,"SR",0,"St. Louis",0,"University of Michigan",4,"1.Wilson.WR.Michigan.jpg","204,165,142",2,"#CBAD8E",2,1.028,0.633,0.781,59.381,7.448,30.729,"white",0.93
+1333,"Zak Zinter",65,"OL","6-Jun",322,"SR",22,"Buckingham Browne & Nichols School",0,"University of Michigan",2,"65.Zinter.OL.Michigan.jpg","195,158,144",2,"#A9855A",6,0.107,0.201,0.034,66.442,7.35,25.865,"white",0.91

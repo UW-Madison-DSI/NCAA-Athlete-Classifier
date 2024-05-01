@@ -1,0 +1,1 @@
+SELECT * from players_data WHERE university = 'Maryland Terrapins' OR university = 'Michigan Wolverines' OR university = 'Ohio State Buckeyes' OR university = 'UW'

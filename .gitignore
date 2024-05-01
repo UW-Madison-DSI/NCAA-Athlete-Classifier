@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+.jupyter/
+log/
+*.swp
+.env
+testing
+links
+data
+web

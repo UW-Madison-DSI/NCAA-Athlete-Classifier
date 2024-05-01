@@ -1,0 +1,52 @@
+<!DOCTYPE html> 
+<html lang="en">
+	<head>
+		<title><%= title %></title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<!-- system styles -->
+		<link rel="stylesheet" type="text/css" href="../../vendor/fancybox/jquery.fancybox.css" />
+		<link rel="stylesheet" type="text/css" href="../../vendor/bootstrap/css/bootstrap.css" />
+
+		<!-- custom styles -->
+		<link rel="stylesheet" type="text/css" href="../../styles/team.css" />
+	</head>
+	<body>
+		<!-- system scripts -->
+		<script type="text/javascript" src="../../lib/jquery/jquery-3.6.0.js"></script>
+		<script type="text/javascript" src="../../vendor/fancybox/jquery.fancybox.js"></script>
+		<script type="text/javascript" src="../../vendor/bootstrap/js/tooltip.js"></script>
+
+		<!-- custom scripts -->
+		<script type="text/javascript" src="../../scripts/team.js"></script>
+	</head>
+	<body>
+		<div class="logo" style="background-image:url('<%= logo %>')"></div>
+		<h1><%= title %></h1>
+		
+		<div class="analysis panel">
+			<label>Analysis</label>
+			<div class="controls">
+				<div class="manual-skin-tone control">
+					<label>Manual Skin Tone</label>
+					<input type="checkbox" checked />
+				</div>
+				<div class="color-thief-analyzer control">
+					<label>Color Thief Analyzer</label>
+					<input type="checkbox" checked />
+				</div>
+				<div class="skin-tone-classifier control">
+					<label>Skin Tone Classifier</label>
+					<input type="checkbox" checked />
+				</div>
+				<div class="deep-face-classifier control">
+					<label>Deep Face Classifier</label>
+					<input type="checkbox" />
+				</div>
+			</div>
+		</div>
+
+		<br />
+<%= items %>
+	</body>
+</html>
