@@ -167,7 +167,8 @@ Next, we'll add the analyzer data back into the original source data.
 ```
 cd src/data-manager
 sh store-ncaa-teams.sh
-sh store-selected-ncaa-teams.sh
+sh store-cleaned-ncaa-teams.sh
+sh store-coded-ncaa-teams.sh
 
 ```
 
