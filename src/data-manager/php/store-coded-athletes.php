@@ -1,7 +1,7 @@
 <?php
 /******************************************************************************\
 |                                                                              |
-|                              store-athletes.php                              |
+|                          store-coded-athletes.php                            |
 |                                                                              |
 |******************************************************************************|
 |                                                                              |
@@ -304,7 +304,7 @@ exit();
 // check command line arguments
 //
 if (count($argv) < 2) {
-	echo "Usage: php store_athletes.php <directory> <table_name> [-folders]\n";
+	echo "Usage: php store-coded-athletes.php <directory> <table_name> [-folders]\n";
 	echo "The -folders option expects each image to be in a separate folder.";
 	exit();
 }

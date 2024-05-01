@@ -1,7 +1,7 @@
 <?php
 /******************************************************************************\
 |                                                                              |
-|                            store-player-data.php                             |
+|                          store-players-cleaned.php                           |
 |                                                                              |
 |******************************************************************************|
 |                                                                              |
@@ -28,53 +28,48 @@ function fieldToValue($name, $value) {
 	switch ($name) {
 		case 'number':
 			return intval($value);
-		case 'CMP-passing':
-		case 'ATT-passing':
-		case 'YDS-passing':
-		case 'CMP%-passing':
-		case 'AVG-passing': 
-		case 'LNG-passing': 
-		case 'TD-passing': 
-		case 'INT-passing':
-		case 'SACK-passing':
-		case 'SYL-passing': 
-		case 'RTG-passing':
-		case 'CAR-rushing': 
-		case 'YDS-rushing':
-		case 'AVG-rushing':
-		case 'LNG-rushing':
-		case 'TD-rushing':
-		case 'REC-receiving':
-		case 'YDS-receiving':
-		case 'AVG-receiving':
-		case 'LNG-receiving': 
-		case'TD-receiving':
-		case 'XPM-kicking':
-		case 'XPA-kicking': 
-		case 'XP%-kicking':
-		case 'FGM-kicking':
-		case 'FGA-kicking':
-		case 'FG%-kicking':
-		case '1-19-kicking':
-		case '20-29-kicking':
-		case '30-39-kicking':
-		case '40-49-kicking':
-		case '50+-kicking':
-		case 'LNG-kicking':
-		case 'PTS-kicking':
-		case 'SOLO-defense':
-		case 'AST-defense':
-		case 'TOT-defense':
-		case 'SACK-defense':
-		case 'SCKYDS-defense': 
-		case 'PD-defense':
-		case 'INT-defense':
-		case 'YDS-defense':
-		case 'LNG-defense':
-		case 'TD-defense':
-		case 'FF-defense':
-		case 'FR-defense':
-		case 'FTD-defense':
+		case 'cmp_passing':
+		case 'att_passing':
+		case 'yds_passing':
+		case 'cmp_percent_passing':
+		case 'avg_passing': 
+		case 'lng_passing': 
+		case 'td_passing': 
+		case 'int_passing':
+		case 'sack_passing':
+		case 'syl_passing': 
+		case 'rtg_passing':
+		case 'car_rushing': 
+		case 'yds_rushing':
+		case 'avg_rushing':
+		case 'lng_rushing':
+		case 'td_rushing':
+		case 'rec_receiving':
+		case 'yds_receiving':
+		case 'avg_receiving':
+		case 'lng_receiving': 
+		case'td_receiving':
+		case 'xpm_kicking':
+		case 'xpa_kicking': 
+		case 'xp_percent_kicking':
+		case 'fgm_kicking':
+		case 'fga_kicking':
+		case 'fg_percent_kicking':
+		case 'lng_kicking':
+		case 'pts_kicking':
+		case 'solo_defense':
+		case 'ast_defense':
+		case 'tot_defense':
+		case 'sack_defense':
+		case 'sckyds_defense': 
+		case 'pd_defense':
+		case 'int_defense':
+		case 'yds_defense':
+		case 'lng_defense':
+		case 'td_defense':
+		case 'ff_defense':
+		case 'fr_defense':
+		case 'ftd_defense':
 			return floatval($value);
 		default:
 			return $value;
@@ -92,8 +87,13 @@ function storePlayerData($file, $db, $tableName) {
 			$row = [];
 			for ($i = 0; $i < count($names); $i++) {
 				$name = $names[$i];
-				$value = $data[$i] != ''? $data[$i] : 'NULL';
-				$row[$name] = fieldToValue($name, $value);
+				if ($name != '') {
+					$value = $data[$i] != ''? $data[$i] : 'NULL';
+					if ($value == 'NA') {
+						$value = 0;
+					}
+					$row[$name] = fieldToValue($name, $value);
+				}
 			}
 
 			// add row
@@ -110,19 +110,20 @@ function storePlayerData($file, $db, $tableName) {
 
 // check command line arguments
 //
-if (count($argv) < 1) {
-	echo "Usage: php store-player-data.php <filename>\n";
+if (count($argv) < 2) {
+	echo "Usage: php store-players-cleaned.php <filename> <table_name>\n";
 	exit();
 }
 
 // parse command line arguments
 //
 $filename = $argv[1];
+$tableName = $argv[2];
 
 // store player data from file
 //
 if (($file = fopen($filename, "r")) !== FALSE) {
-	storePlayerData($file, $db, 'players_data');
+	storePlayerData($file, $db, $tableName);
 	fclose($file);
 } else {
 	echo "File '" . $filename . "' not found. \n";

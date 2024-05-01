@@ -6,7 +6,7 @@
 
 # NCAA Athlete Classifier
 
-The NCAA Athlete Classifier is a utility for classifying NCAA athelete data by skin tone using various image different classifiers.
+The NCAA Athlete Classifier is a utility for classifying NCAA atheletes by skin tone using various image  classifiers.
 
 ![Screen Shot](images/badgers.png)
 Wisconsin Badgers
@@ -17,12 +17,12 @@ Sample Results
 This utility uses the following image classifiers:
 
 ### 1. Color Thief 
-This classifier uses the [Color Thief](https://lokeshdhakar.com/projects/color-thief) utility to find the dominant color form an image and map it to a Monk skin tone scale.
+This classifier uses the [Color Thief](https://lokeshdhakar.com/projects/color-thief) utility to find the dominant color form an image and then map that color to the [Monk](https://skintone.google) skin tone scale.
 
 ![Screen Shot](images/color-thief.png)
 
 ### 2. Skin Tone Classifier
-The [Skin Tone Classifier](https://github.com/ChenglongMa/SkinToneClassifier) utility is used to analyze the contents of an image, find the face regions, and perform a skin tone analysis, mapping the final color to the Monk skin tone scale. 
+The [Skin Tone Classifier](https://github.com/ChenglongMa/SkinToneClassifier) utility is used to analyze the contents of an image, find the face regions, and perform a skin tone analysis, mapping the final color to the [Monk](https://skintone.google) skin tone scale. 
 
 ![Screen Shot](images/skin-tone-classifier.png)
 
@@ -177,6 +177,9 @@ The results of the analysis can be found in:
 1) [players_data.csv](results/players_data.csv)
 This is the original NCAA database with the classifier information appended.
 
+1) [players_data_cleaned.csv](results/players_data_cleaned.csv)
+This is the original NCAA database with duplicates removed and the classifier information appended.
+
 2)  [4 Universities Coding.csv](results/4%20Universities%20Coding.csv)
 This is a small subset of the NCAA database including 4 teams (Wisconsin Badgers, Maryland Terrapins, Ohio State Buckeyes, and Michigan Wolverines) with manual skin tone classifications.
 
@@ -189,9 +192,9 @@ Distributed under the MIT License which allows urestricted use of the software. 
 ## Acknowledgements
 This software was made possible by the following organizations:
 
-1. [University of Wisconsin](http://wisc.edu) [Data Science Institute](http://datascience.wisc.edu)
+1. [University of Wisconsin](http://wisc.edu) [School of Business](http://business.wisc.edu)
 
-Thank you to the Data Science Institute for support.
+1. [University of Wisconsin](http://wisc.edu) [Data Science Institute](http://datascience.wisc.edu)
 
 2. [ESPN](http://espn.com)
 
