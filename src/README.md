@@ -14,10 +14,10 @@ The classifiers are used to analyze the source images.  They output results in .
 ### [Color Analyzer](color-analyzer)
 This tool uses the Color Thief utility to find the dominant color of each image and map it to a Monk skin tone.
 
-### [Skin Tone Analyzer](skin-tone-analyzer)
+### [Skin Tone Classifier](skin-tone-classifier)
 This tool uses the Skin Tone Analyzer utility to find the dominant color of the skin tone regions each image and map it to a Monk skin tone.
 
-### [Demographic Analyzer](skin-tone-analyzer)
+### [Demographic Classifier](demographic-classifier)
 This tool uses the DeepFace utility to find the demographic characteristics of each image.
 
 ## 2. Data Managers
