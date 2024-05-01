@@ -56,7 +56,9 @@ Create a database called "athletics".  Then, run the following scripts to create
 
 1. [database/players_data.sql](database/players_data.sql) This creates the database table to hold data from the [players_data_final.csv](data/Coding/players_data_final.csv) spreadsheet.
 
-2. [database/4_universities.sql](database/4_universities.sql) This creates the database table to hold data from the [4 Universities Coding.csv](data/Coding/4%20Universities%20Coding.csv) spreadsheet.
+2. [database/players_data_cleaned.sql](database/players_data_cleaned.sql) This creates the database table to hold data from the [players_data_cleaned.csv](data/Coding/players_data_cleaned.csv) spreadsheet.
+
+3. [database/4_universities.sql](database/4_universities.sql) This creates the database table to hold data from the [4 Universities Coding.csv](data/Coding/4%20Universities%20Coding.csv) spreadsheet.
 
 ### 2. ColorThief
 Please install the ColorThief utility by running:
@@ -92,7 +94,7 @@ define('DATABASE_NAME', 'athletics');
 ```
 
 ## Running
-[Scripts](src/README.md) are provided for fetching and processing both athletes and teams: 
+[Scripts](src/README.md) are provided for fetching and processing NCAA team athletes.
 
 ### 1. Initialize the database
 
