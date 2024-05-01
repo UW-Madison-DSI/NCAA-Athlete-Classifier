@@ -26,7 +26,7 @@ The [Skin Tone Classifier](https://github.com/ChenglongMa/SkinToneClassifier) ut
 
 ![Screen Shot](images/skin-tone-classifier.png)
 
-### 3. Deep Face
+### 3. Deep Face (Optional)
 The [DeepFace](https://github.com/serengil/deepface) utility performs an ethnographic / demographic classification of players based upon the features of images.
 
 ![Screen Shot](images/deep-face-classifier.png)
@@ -45,7 +45,7 @@ The [ColorThief](https://github.com/fengsp/color-thief-py) utility is used to pe
 ### 4. Skin Tone Classifier
 The [Skin Tone Classifier](https://pypi.org/project/skin-tone-classifier/) utility is used to perform an image based ethnographic / demographic classification of players.
 
-### 3. DeepFace
+### 3. DeepFace (Optional)
 The [DeepFace](https://pypi.org/project/deepface/) utility is used to perform an image based ethnographic / demographic classification of players.
 
 ## Installation
@@ -72,7 +72,7 @@ Please install the Skin Tone Classifier utility by running:
 pip install skin-tone-classifier --upgrade
 ```
 
-### 2. DeepFace
+### 2. DeepFace (Optional)
 Please install the DeepFace utility by running:
 
 ```
