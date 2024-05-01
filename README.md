@@ -159,7 +159,7 @@ The results of the analysis can be found in:
 This is the original NCAA database with the classifier information appended.
 
 2)  [4 Universities Coding.csv](results/4%20Universities%20Coding.csv)
-This is the original NCAA database with the classifier information appended.
+This is a small subset of the NCAA database including 4 teams (Wisconsin Badgers, Maryland Terrapins, Ohio State Buckeyes, and Michigan Wolverines) with manual skin tone classifications.
 
 <!-- LICENSE -->
 ## License

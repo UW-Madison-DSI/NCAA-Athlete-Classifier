@@ -1,7 +1,7 @@
 cd php
 
-# echo "Analyzing Demographics of Wisconsin Badgers"
-# php classify-images.php "../../../data/NCAA (Selected)/Wisconsin Badgers" -folders
+echo "Analyzing Demographics of Wisconsin Badgers"
+php classify-images.php "../../../data/NCAA (Selected)/Wisconsin Badgers" -folders
 
 echo "Analyzing Demographics of Maryland Terrapins"
 php classify-images.php "../../../data/NCAA (Selected)/Maryland Terrapins" -folders
