@@ -6,7 +6,7 @@
 
 # NCAA Athlete Classifier
 
-The NCAA Athlete Classifier is a utility for classifying NCAA atheletes by skin tone using various image  classifiers.
+The NCAA Athlete Classifier is a utility for classifying NCAA athletes by skin tone using various image  classifiers.
 
 ![Screen Shot](images/badgers.png)
 Wisconsin Badgers

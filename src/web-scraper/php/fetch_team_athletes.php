@@ -27,8 +27,8 @@ include "models/team.php";
  * Fetch an athlete and save it to the file system and database.
  *
  * @param  string $league - The league of the athlete to fetch.
- * @param  integer $id - The id of the athelete to fetch.
- * @param  string $athletesDir - The directory name to save athelete data.
+ * @param  integer $id - The id of the athlete to fetch.
+ * @param  string $athletesDir - The directory name to save athlete data.
  * @param  object $db - The database to store athlete data.
  * @return App\Models\Athlete
  */
@@ -41,7 +41,7 @@ function fetchTeamAthlete($league, $id, $athletesDir) {
 		'id' => $id
 	]);
 
-	// fetch athelete info
+	// fetch athlete info
 	//
 	$athlete->fetch();
 
@@ -78,7 +78,7 @@ function fetchTeamAthlete($league, $id, $athletesDir) {
  * @param string $teamId - The id of the team to fetch athletes from.
  * @param int $year - The year of the team to fetch.
  * @param string $teamsDir - The directory name to save team data.
- * @param object $db - The database to store athelete data.
+ * @param object $db - The database to store athlete data.
  */
 function fetchTeamAthletes(string $league, string $teamId, int $year, string $directory) {
 
