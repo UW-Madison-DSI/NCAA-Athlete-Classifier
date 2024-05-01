@@ -104,7 +104,26 @@ sh store_player_data.sh
 sh store-4-universities.sh
 ```
 
-### 2. Run the Color Thief Analyzer
+### 2. Add Your Data
+
+Next, add your athlete images to the data directory.  We recommend creating an 'NCAA' folder inside of data directory.  Inside of this folder there should be one folder for each team.  
+
+```
+data/
+    NCAA/
+        Air Force/
+        Akron/
+        ...
+```
+
+Inside of each team folder should be the team images.  Team images are named using the convention: NUMBER.LASTNAME.POSITION.TEAM.jpg.  
+
+For example: 
+```
+83.Carter-Hill.TE.Air Force.jpg
+```
+
+### 3. Run the Color Thief Analyzer
 
 Next, we'll run the Color Thief Analyzer on the source images.  To do this, run:
 
@@ -116,7 +135,7 @@ sh analyze-selected-ncaa-teams.sh
 
 When this is complete, it will have created a set of folders inside of the 'data/NCAA' team folders called "Colors", and "Cropped".
 
-### 3. Run the Skin Tone Classifier Analyzer
+### 4. Run the Skin Tone Classifier Analyzer
 
 Next, we'll run the Color Thief Analyzer on the source images.  To do this, run:
 
@@ -128,7 +147,7 @@ sh skin-tone-selected-ncaa-teams.sh
 
 When this is complete, it will have created a set of folders inside of the 'data/NCAA' team folders called "Reports", "RGB", and "Skin Tones".
 
-### 4. Run the DeepFace Classifier Analyzer (Optional)
+### 5. Run the DeepFace Classifier Analyzer (Optional)
 
 Next, we'll run the DeepFace Analyzer on the source images.  To do this, run:
 
@@ -140,7 +159,7 @@ sh classify-selected-ncaa-teams.sh
 
 When this is complete, it will have created a set of folders inside of the 'data/NCAA' team folders called "Demography".
 
-### 5. Add Analyzer Data To Database
+### 6. Add Analyzer Data To Database
 Next, we'll add the analyzer data back into the original source data.
 
 ```

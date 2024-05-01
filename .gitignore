@@ -6,5 +6,7 @@ log/
 .env
 testing
 links
-data
+data/NCAA
+data/NCAA (Selected)
+data/NCAA Teams
 web
