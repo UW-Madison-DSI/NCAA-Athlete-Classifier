@@ -85,6 +85,9 @@ color_thief = ColorThief(cropped_filename)
 #
 dominant_color = color_thief.get_color(quality=1);
 palette = color_thief.get_palette(color_count=6),
+
+# map the dominant color to a Monk tone
+#
 monk_index = monk_tones.rgb_to_index(dominant_color)
 
 # get the dominant color and palette
