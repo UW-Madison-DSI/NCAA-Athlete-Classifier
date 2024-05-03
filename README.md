@@ -108,7 +108,7 @@ sh store-4-universities.sh
 
 ### 2. Add Your Data
 
-Next, add your athlete images to the data directory.  We recommend creating an 'NCAA' folder inside of data directory.  Inside of this folder there should be one folder for each team.  
+Add your athlete images to the data directory.  We recommend creating an 'NCAA' folder inside of data directory.  Inside of this folder there should be one folder for each team.  
 
 ```
 data/
@@ -127,7 +127,7 @@ For example:
 
 ### 3. Run the Color Thief Analyzer
 
-Next, we'll run the Color Thief Analyzer on the source images.  To do this, run:
+Run the Color Thief Analyzer to find the dominant color of each image.  To do this, run:
 
 ```
 cd src/color-analyzer
@@ -137,7 +137,20 @@ sh analyze-selected-ncaa-teams.sh
 
 When this is complete, it will have created a set of folders inside of the 'data/NCAA' team folders called "Colors", and "Cropped".
 
-### 4. Run the Skin Tone Classifier Analyzer
+### 4. Run the Color Classifier
+
+Run the Color Classifier to map each image's dominant color to a Monk skin tone.  To do this, run:
+
+```
+cd src/color-analyzer
+sh analyze-ncaa-teams.sh
+sh analyze-selected-ncaa-teams.sh
+```
+
+This will modify the color json files to add the monk skin tone values.
+
+
+### 5. Run the Skin Tone Classifier
 
 Next, we'll run the Color Thief Analyzer on the source images.  To do this, run:
 
@@ -149,9 +162,9 @@ sh skin-tone-selected-ncaa-teams.sh
 
 When this is complete, it will have created a set of folders inside of the 'data/NCAA' team folders called "Reports", "RGB", and "Skin Tones".
 
-### 5. Run the DeepFace Classifier Analyzer (Optional)
+### 6. Run the DeepFace Classifier (Optional)
 
-Next, we'll run the DeepFace Analyzer on the source images.  To do this, run:
+Next, we'll run the DeepFace Classifier on the source images.  To do this, run:
 
 ```
 cd src/demographic-classifier
@@ -161,8 +174,8 @@ sh classify-selected-ncaa-teams.sh
 
 When this is complete, it will have created a set of folders inside of the 'data/NCAA' team folders called "Demography".
 
-### 6. Add Analyzer Data To Database
-Next, we'll add the analyzer data back into the original source data.
+### 7. Add Data To Database
+Next, we'll add the data back into the original source data in the database.
 
 ```
 cd src/data-manager
