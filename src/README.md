@@ -12,7 +12,10 @@ The source code for the NCAA Athlete Classifier is broken up into the following 
 The classifiers are used to analyze the source images.  They output results in .json format into the file system along with the images.
 
 ### [Color Analyzer](color-analyzer)
-This tool uses the Color Thief utility to find the dominant color of each image and map it to a Monk skin tone.
+This tool uses the Color Thief utility to find the dominant color of each image.
+
+### [Color Classifier](color-classifier)
+This tool matches the dominant color of each image to a Monk skin tone.
 
 ### [Skin Tone Classifier](skin-tone-classifier)
 This tool uses the Skin Tone Analyzer utility to find the dominant color of the skin tone regions each image and map it to a Monk skin tone.

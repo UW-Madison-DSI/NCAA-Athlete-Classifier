@@ -1,13 +1,13 @@
-cd php
+cd python
 
 echo "Analyzing Colors of Wisconsin Badgers"
-php analyze-images.php "../../../data/NCAA (Selected)/Wisconsin Badgers" -folders
+python3 analyze_images.py "../../../data/NCAA (Selected)/Wisconsin Badgers" -folders
 
 echo "Analyzing Colors of Maryland Terrapins"
-php analyze-images.php "../../../data/NCAA (Selected)/Maryland Terrapins" -folders
+python3 analyze_images.py "../../../data/NCAA (Selected)/Maryland Terrapins" -folders
 
 echo "Analyzing Colors of Ohio State Buckeyes"
-php analyze-images.php "../../../data/NCAA (Selected)/Ohio State Buckeyes" -folders
+python3 analyze_images.py "../../../data/NCAA (Selected)/Ohio State Buckeyes" -folders
 
 echo "Analyzing Colors of Michigan Wolverines"
-php analyze-images.php "../../../data/NCAA (Selected)/Michigan Wolverines" -folders
+python3 analyze_images.py "../../../data/NCAA (Selected)/Michigan Wolverines" -folders

@@ -1,4 +1,4 @@
-cd php
+cd python
 
 echo "Analyzing Colors of Air Force"
-php skin-tone-images.php "../../../data/NCAA/Air Force"
+python3 skin_tone_images.py "../../../data/NCAA/Air Force"

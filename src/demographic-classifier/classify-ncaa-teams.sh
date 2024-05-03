@@ -1,5 +1,5 @@
-cd php
+cd python
 
 for directory in ../../../data/NCAA/*; do
-	php classify-images.php "$directory"
+	python3 classify_images.py "$directory"
 done

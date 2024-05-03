@@ -1,4 +1,4 @@
-cd php
+cd python
 
 echo "Analyzing Skin Tones of Wisconsin Badgers"
-php skin-tone-images.php "../../../data/NCAA (Selected)/Wisconsin Badgers" -folders
+python3 skin_tone_images.py "../../../data/NCAA (Selected)/Wisconsin Badgers" -folders

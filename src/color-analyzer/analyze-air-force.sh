@@ -1,4 +1,4 @@
-cd php
+cd python
 
 echo "Analyzing Colors of Air Force"
-php analyze-images.php "../../../data/NCAA/Air Force"
+python3 analyze_images.py "../../../data/NCAA/Air Force"

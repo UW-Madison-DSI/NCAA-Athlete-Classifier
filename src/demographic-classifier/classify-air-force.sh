@@ -1,4 +1,4 @@
-cd php
+cd python
 
 echo "Analyzing Demographics of Air Force"
-php classify-images.php "../../../data/NCAA/Air Force"
+python3 classify_images.py "../../../data/NCAA/Air Force"

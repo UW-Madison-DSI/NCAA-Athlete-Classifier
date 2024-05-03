@@ -191,8 +191,12 @@ function webifyAthlete($name, $srcPath, $destPath, $useFolders) {
 
 	// look up player info
 	//
-	$id = nameToId($name);
-	$info = $id? getPlayerInfo($id) : null;
+	if ($useFolders) {
+		$id = nameToId($name);
+		$info = $id? getPlayerInfo($id) : null;
+	} else {
+		$info = null;
+	}
 
 	// look up player name
 	//
@@ -357,6 +361,17 @@ if (count($argv) < 2) {
 $srcPath = $argv[1];
 $destPath = $argv[2];
 $useFolders = ($argc > 3 && $argv[3] == '-folders');
+
+// check for source and dest directories
+//
+if (!file_exists($srcPath)) {
+	echo "The source directory does not exists: $srcPath.\n";
+	exit();
+}
+if (!file_exists($destPath)) {
+	echo "The source directory does not exists: $srcPath.\n";
+	exit();
+}
 
 // extract name and logo
 //

@@ -1,4 +1,4 @@
-cd php
+cd python
 
 echo "Analyzing Skin Tones of Monk Swatches"
-php skin-tone-images.php "../../data/Testing/Monk/Monk Swatches"
+python3 skin_tone_images.py "../../data/Testing/Monk/Monk Swatches"
