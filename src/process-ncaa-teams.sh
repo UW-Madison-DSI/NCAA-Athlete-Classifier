@@ -18,6 +18,8 @@ cd ..
 
 cd data-manager
 sh store-ncaa-teams.sh
+sh store-cleaned-ncaa-teams.sh
+sh store-coded-ncaa-teams.sh
 cd ..
 
 cd webpage-creator
