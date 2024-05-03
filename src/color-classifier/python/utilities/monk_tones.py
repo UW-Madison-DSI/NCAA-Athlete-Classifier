@@ -60,9 +60,9 @@ def shaded(colors):
 		'''
 
 		if (i < 5):
-			colors2.append(darken(colors[i], 0.25))
+			colors2.append(darken(colors[i], 0.2))
 		else:
-			colors2.append(lighten(colors[i], (darkness - 0.5)))
+			colors2.append(lighten(colors[i], (darkness - 0.5) * 2))
 
 	return colors2
 
