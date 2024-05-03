@@ -142,9 +142,9 @@ When this is complete, it will have created a set of folders inside of the 'data
 Run the Color Classifier to map each image's dominant color to a Monk skin tone.  To do this, run:
 
 ```
-cd src/color-analyzer
-sh analyze-ncaa-teams.sh
-sh analyze-selected-ncaa-teams.sh
+cd src/color-classifier
+sh color-classify-ncaa-teams.sh
+sh color-classify-selected-ncaa-teams.sh
 ```
 
 This will modify the color json files to add the monk skin tone values.

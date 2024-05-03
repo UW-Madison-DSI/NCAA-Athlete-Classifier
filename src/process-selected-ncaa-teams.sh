@@ -5,7 +5,7 @@ sh analyze-selected-ncaa-teams.sh
 cd ..
 
 cd color-classifier
-sh classify-selected-ncaa-teams.sh
+sh color-classify-selected-ncaa-teams.sh
 cd ..
 
 cd skin-tone-classifier

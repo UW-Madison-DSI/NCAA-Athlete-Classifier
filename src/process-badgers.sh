@@ -5,7 +5,7 @@ sh analyze-badgers.sh
 cd ..
 
 cd color-classifier
-sh classify-badgers.sh
+sh color-classify-badgers.sh
 cd ..
 
 cd skin-tone-classifier

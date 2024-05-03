@@ -5,7 +5,7 @@ sh analyze-air-force.sh
 cd ..
 
 cd color-classifier
-sh classify-air-force.sh
+sh color-classify-air-force.sh
 cd ..
 
 cd skin-tone-classifier
